@@ -26,7 +26,7 @@ https://openclassrooms.com/forum/sujet/les-erreurs-courantes-en-python-45319
 Pour aller plus loin, ici en anlais et sur le C++:
 http://gameprogrammingpatterns.com/contents.html
 
-Links of some games contented :
+Links of some games contained on folders :
 
 [ArcadeTonkTanks](https://github.com/IndexErrorCoders/PygamesCompilation/tree/master/IE_games_1/ArcadeTonkTanks_006)
 
