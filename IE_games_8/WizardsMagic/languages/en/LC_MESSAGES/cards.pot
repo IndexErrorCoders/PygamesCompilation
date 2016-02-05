@@ -1,0 +1,240 @@
+# Wizards Magic
+# Copyright (C) 2011 chubakur@gmail.com
+# This file is distributed under the same license as the WizardsMagic package.
+# chubakur <chubakur@gmail.com>, 2011.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: chubakur@gmail.com\n"
+"POT-Creation-Date: 2011-06-28 21:36+0400\n"
+"PO-Revision-Date: 2011-06-28 HO:MI+ZONE\n"
+"Last-Translator: chubakur <chubakur@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Causes 200% of damage to fire creatures. Gives owner 1 Water in the beginning of owner's turn. \nCasting Sea of Sacred increases owner's Water by 1 and reduces Fire by 1."
+msgstr "Causes 200% of damage to fire creatures. Gives owner 1 Water in the beginning of owner's turn. \nCasting Sea of Sacred increases owner's Water by 1 and reduces Fire by 1."
+
+msgid "Attacks both adjacent slots. Reduces owner`s Water by 2 every turn. \nCAST: Consumes friendly unit, receiving up to 50% of his health."
+msgstr "Attacks both adjacent slots. Reduces owner`s Water by 2 every turn. \nCAST: Consumes friendly unit, receiving up to 50% of his health."
+
+msgid "One of the toughest Elementals. Health itself for 3 whenever any player casts water spell of summons water creature. Attack equal to owner`s Water."
+msgstr "One of the toughest Elementals. Health itself for 3 whenever any player casts water spell of summons water creature. Attack equal to owner`s Water."
+
+msgid "When attacking, each enemy creature suffers 1 damage in addition to standard attack. \nCasting Curing heals owner for 4. In exchange, owner loses 1 Water. Cannot be cast if owner's Water less than 6."
+msgstr "When attacking, each enemy creature suffers 1 damage in addition to standard attack. \nCasting Curing heals owner for 4. In exchange, owner loses 1 Water. Cannot be cast if owner's Water less than 6."
+
+msgid "Reduces all damage done to owner by 50%. Suffers 200% damage from fire."
+msgstr "Reduces all damage done to owner by 50%. Suffers 200% damage from fire."
+
+msgid "Every time anyone casts Water spell or summons Water creature, opponent suffers 4 damage and owner gains 2 health."
+msgstr "Every time anyone casts Water spell or summons Water creature, opponent suffers 4 damage and owner gains 2 health."
+
+msgid "Increases Water by 2 every turn. Suffers 200% damage from fire. All damage from Water equal to 1. \nCAST: Casting Healing Water heals owner equal to 2*Water points. Owner loses all Water."
+msgstr "Increases Water by 2 every turn. Suffers 200% damage from fire. All damage from Water equal to 1. \nCAST: Casting Healing Water heals owner equal to 2*Water points. Owner loses all Water."
+
+msgid "Doesn`t suffer from Fire and Earth spells. \nCAST: Whenever Demon casts Fire Bleed owner loses 1 Earth and receives 2 Fire elements."
+msgstr "Doesn`t suffer from Fire and Earth spells. \nCAST: Whenever Demon casts Fire Bleed owner loses 1 Earth and receives 2 Fire elements."
+
+msgid "Damage from Water is multiplied by 2. Whenever Devil dies, owner suffers 10 damage. \nCAST: Sacrificing owner`s Fire creature gives 3 Fire to the owner, also healing owner by this amount."
+msgstr "Damage from Water is multiplied by 2. Whenever Devil dies, owner suffers 10 damage. \nCAST: Sacrificing owner`s Fire creature gives 3 Fire to the owner, also healing owner by this amount."
+
+msgid "When summoned, each enemy creature and enemy player suffers 3 damage. Red Drake Suffers no damage from Fire spells and creatures."
+msgstr "When summoned, each enemy creature and enemy player suffers 3 damage. Red Drake Suffers no damage from Fire spells and creatures."
+
+msgid "Opens fire gates. This means that both players should receive 1 additional Fire every turn. Upon dying, Firelord brings 8 damage to each player."
+msgstr "Opens fire gates. This means that both players should receive 1 additional Fire every turn. Upon dying, Firelord brings 8 damage to each player."
+
+msgid "Increases attack of all owner's creatures by 2. Increases damage from owner player's spellcastings by 2."
+msgstr "Increases attack of all owner's creatures by 2. Increases damage from owner player's spellcastings by 2."
+
+msgid "Whenever any creature attacks Efreet, that creature suffers half of damage send back (same applies to Fire Shield spell). Uppon summoning, all enemy Water creatures suffer 6 damage. \nCAST: Casts Fire Shield on any owner`s creature. Costs 2 Fire. Fire Shield burns creature from inside, damaging it for 2 points per turn, unless it`s a Fire creature."
+msgstr "Whenever any creature attacks Efreet, that creature suffers half of damage send back (same applies to Fire Shield spell). Uppon summoning, all enemy Water creatures suffer 6 damage. \nCAST: Casts Fire Shield on any owner`s creature. Costs 2 Fire. Fire Shield burns creature from inside, damaging it for 2 points per turn, unless it`s a Fire creature."
+
+msgid "Fire Elemental. Immune to harmful Fire spells. When summoned, enemy player loses 3 Fire, and opposed Elemental unit suffers 9 damage. Attack equal to owner`s Fire + 3. \nCAST: Casts Volcano Explode. Vulcan dies, but every unit on field suffers damage equal to 50% of Vulcan`s health."
+msgstr "Fire Elemental. Immune to harmful Fire spells. When summoned, enemy player loses 3 Fire, and opposed Elemental unit suffers 9 damage. Attack equal to owner`s Fire + 3. \nCAST: Casts Volcano Explode. Vulcan dies, but every unit on field suffers damage equal to 50% of Vulcan`s health."
+
+msgid "Attacks adjacent enemy units at a half of it`s strength."
+msgstr "Attacks adjacent enemy units at a half of it`s strength."
+
+msgid "Owner receives 1 Air at the beginning of Owners turn."
+msgstr "Owner receives 1 Air at the beginning of Owners turn."
+
+msgid "Increases its attack by 1 for each creature, killed on a field. \nCAST: Enslave Mind forces strongest enemy creature to attack it`s owner. Costs 1 Air."
+msgstr "Increases its attack by 1 for each creature, killed on a field. \nCAST: Enslave Mind forces strongest enemy creature to attack it`s owner. Costs 1 Air."
+
+msgid "If Phoenix was killed by Fire spell or creature, rebirth with full health."
+msgstr "If Phoenix was killed by Fire spell or creature, rebirth with full health."
+
+msgid "Owner receives 1 air element for each enemy creature, killed by Zeus. \nCAST: Strikes Lighting into choosen creature. Costs 1 Air and inflicts 8 damage. Cannot strike creatures of level 7 and highter."
+msgstr "Owner receives 1 air element for each enemy creature, killed by Zeus. \nCAST: Strikes Lighting into choosen creature. Costs 1 Air and inflicts 8 damage. Cannot strike creatures of level 7 and highter."
+
+msgid "Suffers no damage from Earth and Air spells. \nCAST: Casts Petrification on self, as effect turns to stone. In stone form Gargoyle reduces damage done to it by 2 . Owner loses 3 Air and 1 Earth."
+msgstr "Suffers no damage from Earth and Air spells. \nCAST: Casts Petrification on self, as effect turns to stone. In stone form Gargoyle reduces damage done to it by 2 . Owner loses 3 Air and 1 Earth."
+
+msgid "Attacks casters with additional 3 damage. Only suffers 50% damage from spells. \nCAST: Casts Memory Loss. Target enemy creature permanently loses ability to cast. Costs 2 Air."
+msgstr "Attacks casters with additional 3 damage. Only suffers 50% damage from spells. \nCAST: Casts Memory Loss. Target enemy creature permanently loses ability to cast. Costs 2 Air."
+
+msgid "When summoned, enemy loses 3 Air. Titan`s attack is increased by 1 for each Air creature in play. \nCAST: Casts Thunder Fist. All enemy Earth creatures suffer 3 damage. Owner loses 1 Air."
+msgstr "When summoned, enemy loses 3 Air. Titan`s attack is increased by 1 for each Air creature in play. \nCAST: Casts Thunder Fist. All enemy Earth creatures suffer 3 damage. Owner loses 1 Air."
+
+msgid "Increases Earth by 1 every turn. \nCAST: Once Satyr casts Dissolve, it dies and creature in the opposed slot suffers 5 damage. If there`s no creature, damage dealt to enemy player."
+msgstr "Increases Earth by 1 every turn. \nCAST: Once Satyr casts Dissolve, it dies and creature in the opposed slot suffers 5 damage. If there`s no creature, damage dealt to enemy player."
+
+msgid "Regenerates 3 health every turn. While owner's Earth less than 3, it suffers 3 damage instead."
+msgstr "Regenerates 3 health every turn. While owner's Earth less than 3, it suffers 3 damage instead."
+
+msgid "Adjacent owner creatures attack increases by 1, and if it`s Earth creature, by 2 whenever anyone casts Earth spell of summons Earth creature."
+msgstr "Adjacent owner creatures attack increases by 1, and if it`s Earth creature, by 2 whenever anyone casts Earth spell of summons Earth creature."
+
+msgid "Damage from all non-magical attacks and abilities equal to 1. \nCAST: Casts Youth of Forest, increasing owner player`s health by 5. Costs two Earth elements."
+msgstr "Damage from all non-magical attacks and abilities equal to 1. \nCAST: Casts Youth of Forest, increasing owner player`s health by 5. Costs two Earth elements."
+
+msgid "Attacks the same turn he was summoned(No summon sickness). \nCAST: Strikes magic arrow into enemy player, dealing 3 damage. Costs 1 Earth."
+msgstr "Attacks the same turn he was summoned(No summon sickness). \nCAST: Strikes magic arrow into enemy player, dealing 3 damage. Costs 1 Earth."
+
+msgid "Attack equal to owner`s Earth. Increases Earth by 2 every turn. Fire spells deal additional 10 damage. \nCAST: Casts Stone Skin onto owner`s creature. That creature gain 1 point of defence from all attacks greater than 1."
+msgstr "Attack equal to owner`s Earth. Increases Earth by 2 every turn. Fire spells deal additional 10 damage. \nCAST: Casts Stone Skin onto owner`s creature. That creature gain 1 point of defence from all attacks greater than 1."
+
+msgid "Attacks opposed unit and enemy player at the same time. \nCasts Entangle Roots, damaging each enemy unit for 1 and losing 2 points of own health."
+msgstr "Attacks opposed unit and enemy player at the same time. \nCasts Entangle Roots, damaging each enemy unit for 1 and losing 2 points of own health."
+
+msgid "When attacks, poisons her target. This target will lose 2 health every turn. In the beginning og owner`s turn, Echidna hits all poisoned creatures for 1."
+msgstr "When attacks, poisons her target. This target will lose 2 health every turn. In the beginning og owner`s turn, Echidna hits all poisoned creatures for 1."
+
+msgid "Increases owner`s Life by 2 every turn, decreasing Death by the same amount. Decreases owner`s Life by 3 every time owner casts Death spells."
+msgstr "Increases owner`s Life by 2 every turn, decreasing Death by the same amount. Decreases owner`s Life by 3 every time owner casts Death spells."
+
+msgid "Brings 300% of damage to undead creatures. \nCAST: Casts Exorcism. Destroys any undead, but suffers 10 damage himself. Owner also loses 2 Life as a cost of this holy casting."
+msgstr "Brings 300% of damage to undead creatures. \nCAST: Casts Exorcism. Destroys any undead, but suffers 10 damage himself. Owner also loses 2 Life as a cost of this holy casting."
+
+msgid "When summoned, each owner`s creature is healed for 3. Also, it destroys harmful spell effects from each of them. \nCAST: Holy Strike deals 5 damage to a target creature. If it is undead creature, Pegasus also suffer 3 damage homself. Costs 2 Life."
+msgstr "When summoned, each owner`s creature is healed for 3. Also, it destroys harmful spell effects from each of them. \nCAST: Holy Strike deals 5 damage to a target creature. If it is undead creature, Pegasus also suffer 3 damage homself. Costs 2 Life."
+
+msgid "Unicorn reduces damage from spells to owner's creatures by 50%. Cures poison from owner's creatures. \nCasts Unicorn Aura. This Aura destroys useful spell effects from enemy creatures. Costs 2 Life."
+msgstr "Unicorn reduces damage from spells to owner's creatures by 50%. Cures poison from owner's creatures. \nCasts Unicorn Aura. This Aura destroys useful spell effects from enemy creatures. Costs 2 Life."
+
+msgid "Steals 2 owner's Life and gives owner 1 Death in the beginning of owner's turn. \nServes Death. Once cast, Apostate permanently turns into a Banshee. Banshee restores only 1/2 of normal health."
+msgstr "Steals 2 owner's Life and gives owner 1 Death in the beginning of owner's turn. \nServes Death. Once cast, Apostate permanently turns into a Banshee. Banshee restores only 1/2 of normal health."
+
+msgid "Whenever owner player loses health, Magic Healer health player by this amount, losing hit points equally."
+msgstr "Whenever owner player loses health, Magic Healer health player by this amount, losing hit points equally."
+
+msgid "When Chimera is on a field, every spell casting costs 50% less for the owner. Whenever you summon creature, you gain health equal to this creature's level."
+msgstr "When Chimera is on a field, every spell casting costs 50% less for the owner. Whenever you summon creature, you gain health equal to this creature's level."
+
+msgid "Eats enemies corpses - every time if kills enemy creature, totally health and his health increases by 3."
+msgstr "Eats enemies corpses - every time if kills enemy creature, totally health and his health increases by 3."
+
+msgid "Whenever attacked by a creature, suffers 50% less damage, and owner suffers other 50% damage. When suffers from spell, Ghost recieves 200% of normal damage. \nCasts Bloody Ritual. As a result, owner loses 5 health, but receives one Death."
+msgstr "Whenever attacked by a creature, suffers 50% less damage, and owner suffers other 50% damage. When suffers from spell, Ghost recieves 200% of normal damage. \nCasts Bloody Ritual. As a result, owner loses 5 health, but receives one Death."
+
+msgid "When attacks living creature, restores health equal to 50% of damage dealt. Maximum 30 health."
+msgstr "When attacks living creature, restores health equal to 50% of damage dealt. Maximum 30 health."
+
+msgid "When dies, becomes a ghost. \nCAST: Casts Blood Rage on self. Strikes twice as hard this turn, but owner loses 3 Death points on casting."
+msgstr "When dies, becomes a ghost. \nCAST: Casts Blood Rage on self. Strikes twice as hard this turn, but owner loses 3 Death points on casting."
+
+msgid "When summoned, deals 8 damage to enemy. Once it attacks enemy player, dies and enemy player suffers 10 points of extra damage. If Banshee dies from other creature or spell, enemy player doesn't suffer."
+msgstr "When summoned, deals 8 damage to enemy. Once it attacks enemy player, dies and enemy player suffers 10 points of extra damage. If Banshee dies from other creature or spell, enemy player doesn't suffer."
+
+msgid "Whenever creature dies, increases owner`s Death by one. \nCAST: Consumes target enemy creature of level 3 or less. Owner player loses 3 Death elements."
+msgstr "Whenever creature dies, increases owner`s Death by one. \nCAST: Consumes target enemy creature of level 3 or less. Owner player loses 3 Death elements."
+
+msgid "Whenever creature dies, Darklord heals owner for 3 and regenerates self for 2. \nSteal Spell steals all spell effects from any enemy creature, DarkLord receives these spells. Owner loses 1 Death."
+msgstr "Whenever creature dies, Darklord heals owner for 3 and regenerates self for 2. \nSteal Spell steals all spell effects from any enemy creature, DarkLord receives these spells. Owner loses 1 Death."
+
+msgid "When summoned,deals 10 damage to creature in the opposite slot and two adjacent slots. Attacks Life units with additionial 5 damage. \nCAST:Casts Death Bolt, hitting enemy player with 7 of damage. Owner loses 5 Death. If owner`s Death becomes zero, he suffers 10 damage himself."
+msgstr "When summoned,deals 10 damage to creature in the opposite slot and two adjacent slots. Attacks Life units with additionial 5 damage. \nCAST:Casts Death Bolt, hitting enemy player with 7 of damage. Owner loses 5 Death. If owner`s Death becomes zero, he suffers 10 damage himself."
+
+msgid "Poisons all enemy units so that they lose health every turn, also hits them with 1 damage. Posion doesn`t affect undead."
+msgstr "Poisons all enemy units so that they lose health every turn, also hits them with 1 damage. Posion doesn`t affect undead."
+
+msgid "Every enemy creature suffers damage equal to its attack -1"
+msgstr "Every enemy creature suffers damage equal to its attack -1"
+
+msgid "Paralyzes enemy player and creatures for one turn, so they skip one turn."
+msgstr "Paralyzes enemy player and creatures for one turn, so they skip one turn."
+
+msgid "Each creature suffers up to 16 points of damage. If a player has Poseidon on a field, his creatures left unaffected. Amazingly poisonous magic storm, has no mercy to both friends and foes."
+msgstr "Each creature suffers up to 16 points of damage. If a player has Poseidon on a field, his creatures left unaffected. Amazingly poisonous magic storm, has no mercy to both friends and foes."
+
+msgid "Inflicts 10 + Water/2 damage to enemy player. Caster suffers 6 damage as a side effect. Large bolt of Ice, fired at a great speed. Superior efficiency"
+msgstr "Inflicts 10 + Water/2 damage to enemy player. Caster suffers 6 damage as a side effect. Large bolt of Ice, fired at a great speed. Superior efficiency"
+
+msgid "All units on a field suffer 25 damage. Each player suffers 25 damage. The ultimate spell of the game. The strongest and most harmful. Beware, it's far too powerful!"
+msgstr "All units on a field suffer 25 damage. Each player suffers 25 damage. The ultimate spell of the game. The strongest and most harmful. Beware, it's far too powerful!"
+
+msgid "Each enemy creature suffers damage equal to owner's Fire + 3. As easy as it is - a ball of burning fire."
+msgstr "Each enemy creature suffers damage equal to owner's Fire + 3. As easy as it is - a ball of burning fire."
+
+msgid "Deals 3 damage to each enemy creature. Cheap and still good. Pure Fire."
+msgstr "Deals 3 damage to each enemy creature. Cheap and still good. Pure Fire."
+
+msgid "If enemy has less Fire than owner does, enemy suffers damage, equal to this difference, multiplied by 2. Otherwise enemy suffers 1 damage. Now this is a smart one - a magic arrow made of pure Fire, never misses your foe."
+msgstr "If enemy has less Fire than owner does, enemy suffers damage, equal to this difference, multiplied by 2. Otherwise enemy suffers 1 damage. Now this is a smart one - a magic arrow made of pure Fire, never misses your foe."
+
+msgid "Destroys all spell effects from all creatures, both owner's and enemy's. Heals all Fire creatures for 3."
+msgstr "Destroys all spell effects from all creatures, both owner's and enemy's. Heals all Fire creatures for 3."
+
+msgid "Winds away strongest enemy creature. Perfect against high-level enemy creatures. One of the most useful spells."
+msgstr "Winds away strongest enemy creature. Perfect against high-level enemy creatures. One of the most useful spells."
+
+msgid "First enemy creature suffers damage equal to owner's Air+2. Lightning travels forth and hits each enemy creature, losing 2 damage each time it hits. For example, if owner has 10 Air and enemy has all 5 creatures, they suffer this damage (left to right): 12-10-8-6-4"
+msgstr "First enemy creature suffers damage equal to owner's Air+2. Lightning travels forth and hits each enemy creature, losing 2 damage each time it hits. For example, if owner has 10 Air and enemy has all 5 creatures, they suffer this damage (left to right): 12-10-8-6-4"
+
+msgid "Every creature on a field plagued - loses all hit points except one. Ignores all defences and modifiers. None shall escape the Plague! Great lands burnt to dust where the plague passed."
+msgstr "Every creature on a field plagued - loses all hit points except one. Ignores all defences and modifiers. None shall escape the Plague! Great lands burnt to dust where the plague passed."
+
+msgid "Owner's creatures become permanently immune to all damaging spells, spell effects, and poison. Remember that your creatures can no longer be affected by Bless, Restructure and other good spell effects."
+msgstr "Owner's creatures become permanently immune to all damaging spells, spell effects, and poison. Remember that your creatures can no longer be affected by Bless, Restructure and other good spell effects."
+
+msgid "Owner's creatures gain protection from all attacks. This defence only lasts one turn and lasts till next owner's turn. It's just like an unpenetrable wall has suddenly appeared. Anyone under your command will survive anything!"
+msgstr "Owner's creatures gain protection from all attacks. This defence only lasts one turn and lasts till next owner's turn. It's just like an unpenetrable wall has suddenly appeared. Anyone under your command will survive anything!"
+
+msgid "Hits each creature for 15 damage. Doesn't affect owner's creatures, if onwer's Earth > 12. Even the earth itself is a powerful weapon."
+msgstr "Hits each creature for 15 damage. Doesn't affect owner's creatures, if onwer's Earth > 12. Even the earth itself is a powerful weapon."
+
+msgid "Kills all enemy creatures of level less than 5. Only the skilled one can survive the swamp's most dangerous weapon."
+msgstr "Kills all enemy creatures of level less than 5. Only the skilled one can survive the swamp's most dangerous weapon."
+
+msgid "All onwer's creatures gain +3 health to their maximum, healing for 6 in the same time. Scatter to pieces, connect once again. Now you are stronger, none shall remain!"
+msgstr "All onwer's creatures gain +3 health to their maximum, healing for 6 in the same time. Scatter to pieces, connect once again. Now you are stronger, none shall remain!"
+
+msgid "Heals all friendly creatures for 4. Gives owner 2 health for each of his creatures on a field. Heal me! Heal me!"
+msgstr "Heals all friendly creatures for 4. Gives owner 2 health for each of his creatures on a field. Heal me! Heal me!"
+
+msgid "All owner's creatures Blessed: receive +1 to attack, restore 1 point of health every time they are hit. Undead creatures cannot be blessed and suffer 10 damage instead. Your army's now under God's protection, and your enemy is doomed forever!"
+msgstr "All owner's creatures Blessed: receive +1 to attack, restore 1 point of health every time they are hit. Undead creatures cannot be blessed and suffer 10 damage instead. Your army's now under God's protection, and your enemy is doomed forever!"
+
+msgid "All undead on a field are destroyed. Owner receives 3 Life and 1 health for each destroyed creature. The great day of The Lord is near and coming quickly. That day will be a day of Wrath, a day of distress and anguish."
+msgstr "All undead on a field are destroyed. Owner receives 3 Life and 1 health for each destroyed creature. The great day of The Lord is near and coming quickly. That day will be a day of Wrath, a day of distress and anguish."
+
+msgid "Owner loses health equal to his Life. Enemy suffers damage, double of this amount. Sacrificing is the true loving act."
+msgstr "Owner loses health equal to his Life. Enemy suffers damage, double of this amount. Sacrificing is the true loving act."
+
+msgid "If owner has Life creatures in play, heals owner for 5 and steals 4 health from each enemy creature, giving them to opposed owner's creature. Only pure souls can use God's blessings."
+msgstr "If owner has Life creatures in play, heals owner for 5 and steals 4 health from each enemy creature, giving them to opposed owner's creature. Only pure souls can use God's blessings."
+
+msgid "Heals owner equal to his Life*3. Owner loses all Life elements. Blessed creatures heal for 3. Now you live again, mortal. Life is the most precious, be careful next time!"
+msgstr "Heals owner equal to his Life*3. Owner loses all Life elements. Blessed creatures heal for 3. Now you live again, mortal. Life is the most precious, be careful next time!"
+
+msgid "Banishes each creature into hell. Each banished creature gives caster 1 Death. Whenever one unfolds Chaos, no mortal can stand its fearful ugly nature."
+msgstr "Banishes each creature into hell. Each banished creature gives caster 1 Death. Whenever one unfolds Chaos, no mortal can stand its fearful ugly nature."
+
+msgid "All living creatures suffer 13 damage. All undead creatures heal for 5. The Lord of Chaos most useful tool. Your army of darkness shall reign forever."
+msgstr "All living creatures suffer 13 damage. All undead creatures heal for 5. The Lord of Chaos most useful tool. Your army of darkness shall reign forever."
+
+msgid "Reduces all enemy elements by 1. Curse and Doom are now your enemy's only guests."
+msgstr "Reduces all enemy elements by 1. Curse and Doom are now your enemy's only guests."
+
+msgid "If owner's Death less than 8, steals 5 health from enemy player. Otherwise steals Death + 5. Death's cold vampiric touch. So painful and surreal.."
+msgstr "If owner's Death less than 8, steals 5 health from enemy player. Otherwise steals Death + 5. Death's cold vampiric touch. So painful and surreal.."
+
+msgid "Every enemy creature suffers effect of Weakness: its attack decreased by 50% (rounded down). Make the strongest the weakest, and then assasinate him."
+msgstr "Every enemy creature suffers effect of Weakness: its attack decreased by 50% (rounded down). Make the strongest the weakest, and then assasinate him."

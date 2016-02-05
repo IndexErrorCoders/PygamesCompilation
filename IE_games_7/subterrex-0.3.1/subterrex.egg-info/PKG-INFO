@@ -1,0 +1,27 @@
+Metadata-Version: 1.1
+Name: subterrex
+Version: 0.3.1
+Summary: A pygame based game of subterranean exploration
+Home-page: http://perpetualpyramid.com/drupal/?q=subterrex_game
+Author: Paul Paterson
+Author-email: ppaterson@gmail.com
+License: UNKNOWN
+Download-URL: URLTOGAME-0.3.1.tar.gz
+Description: SubTerrex
+        ---------
+        
+        Explore deep, dark caves and caverns.
+        
+        Requires: Python 2.7+, pygame 1.9+, pymunk and sci-py
+        
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2
+Classifier: Development Status :: 4 - Beta
+Classifier: Environment :: Other Environment
+Classifier: Intended Audience :: End Users/Desktop
+Classifier: License :: OSI Approved :: GNU Library or Lesser General Public License (LGPL)
+Classifier: Operating System :: OS Independent
+Classifier: Topic :: Games/Entertainment
+Classifier: Topic :: Games/Entertainment :: Puzzle Games

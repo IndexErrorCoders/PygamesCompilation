@@ -1,0 +1,47 @@
+set brown
+
+tiles
+WWWWWWWWWWWWWWWW...S
+W          W   W   S
+WW         S   S   S
+W          W S     S
+W   W        W   W S
+W     WWWWWWW      S
+W W   WW           S
+W     W    W   W   .
+W     W    S       .
+W                  W
+W                  W
+W   WW  WWS  WW    .
+  WW  WW      W    .
+  W    S           W
+  S  W             W
+  S  W WW  WWWWWWWWW
+     W W           W
+W    W W W WWWWW WWW
+WWWWWWWW           W
+W        W WWWWWWWSW
+
+player 10.5 19.55
+spider 8.5 18.5 LEFT
+spider 18.5 16.5 RIGHT
+spider 18.5 14 RIGHT
+spider 15.5 12 LEFT
+spider 18.5 10 RIGHT
+spider 2.5 17.5 DOWN
+spider 14.5 1.5 UP
+spider 7.5 1.5 UP
+spider 3 11.5 DOWN
+spider 5 10.5 DOWN
+spider 7 11.5 DOWN
+spider 9 10.5 DOWN
+lever 19.5 8.5 1 TRIGGER_FLIP
+lever 8.5 2.5 1 TRIGGER_FLIP
+lever 7.5 7.5 1 TRIGGER_FLIP
+key 1.5 19.5
+
+trigger key 1
+dialogue This isn't the right key either, but hey, at least I'm going forward.
+dialogue One way or another, I'm gonna get out of this labyrinth.
+change_level
+end trigger

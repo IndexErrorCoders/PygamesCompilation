@@ -1,0 +1,25 @@
+set brown
+
+tiles
+WWWWWWWWWWWWWWWWWWWW
+W                  W
+W                  W
+W                  W
+W                  W
+W                  W
+W                  W
+W                  W
+W                  W
+W                  W
+W                  W
+W                  W
+W                  W
+W                  W
+W                  W
+W                  W
+W                  W
+W                  W
+W                  W
+WWWWWWWWWWWWWWWWWWWW
+
+player 18.5 18.55

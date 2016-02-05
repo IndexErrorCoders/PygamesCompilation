@@ -1,0 +1,5 @@
+repeat_times 1
+frame 0 1
+frame 1 1
+frame 2 1
+frame 3 1

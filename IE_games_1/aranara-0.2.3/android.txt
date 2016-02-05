@@ -1,0 +1,4 @@
+title=aranara
+author=yourgameauthor
+api=1
+orientation=landscape

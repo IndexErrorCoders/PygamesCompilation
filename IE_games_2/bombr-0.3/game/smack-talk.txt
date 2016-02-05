@@ -1,0 +1,366 @@
+# Smack talk examples
+
+player-death {
+    @{player-demise}@
+    @{could-do-better}@
+    that was @{overall-reaction}@
+}
+
+player-demise {
+    so sorry @{taunt-name}@
+    you dead @{taunt-name}@
+    death - @{death-adjectives}@
+    deader than a @{dead-thing}@
+    say hello to @{hello-things}@
+    goodbye
+    I feel for you
+    @{shake-type}@ it off
+
+}
+
+waiting-for-start {
+    Hey @{taunt-name}@ are you going to press the button or what?
+    take your time @{taunt-name}@. It's not like I have anything to do.
+    Click the big red thing, @{taunt-name}@.
+    If you are scared we can play @{other-game}@ instead.
+    When you tire of my @{things-to-tire-of}@ we can play an actual game.
+    @{non-sequiturs}@
+    @{general-waiting}@
+}
+
+non-sequiturs {
+    I feel like we have drifted apart.
+    Is it me or is it @{temperature}@ in here.
+    I saw a @{living-adjective}@ @{living-thing}@ this morning.
+}
+
+temperature {
+    hot
+    cold
+    freezing
+    boiling
+    frigid
+    humid
+    damp
+}
+
+ai-blew-up {
+    I @{blowing-up}@
+}
+
+player-blew-up {
+    You @{blowing-up}@
+}
+
+blowing-up {
+    blew up
+    disintegrated
+    flew into little pieces
+}
+
+ai-no-hearts-left {
+    I @{ran-out-of-hearts}@
+    I stole your hearts
+}
+
+player-no-hearts-left {
+    You @{ran-out-of-hearts}@
+    You stole my hearts
+}
+
+player-flag-lost {
+    I held the flag
+}
+
+ai-flag-lost {
+    You held the flag
+}
+
+ran-out-of-hearts {
+    ran out of hearts
+    have no heart
+    am heartless
+    lost all heart
+}
+
+general-waiting {
+    Any day now @{taunt-name}@.
+    When you are ready, @{taunt-name}@.
+    I'm getting old over here.
+    Time's a tickin', @{taunt-name}@.
+    Tick-tock, @{taunt-name}@.
+}
+
+waiting-to-replay {
+    Ready to @{replay-verb}@ again, @{taunt-name}@?
+    Come on @{taunt-name}@, let's get @{restarting-type}@ again.
+    Press replay already, @{taunt-name}@.
+    I'm waiting for you, @{taunt-name}@.
+    Quit now if you @{quit-reason}@.
+    @{general-waiting}@
+    @{non-sequiturs}@
+}
+
+replay-verb {
+    play
+    die
+    fight
+    rumble
+    dance
+    embarrass yourself
+    wiggle
+}
+
+restarting-type {
+    going
+    fighting
+    rumbling
+    tumbling
+    it on
+}
+
+quit-reason {
+    are too scared
+    are too frightened
+    are a chicken
+    need to do your nails
+    have to frizz your hair
+    need to powder your nose
+    have a flight to catch
+}
+
+waiting-for-random-level {
+    Pick a maze, @{taunt-name}@, I'm keen to @{do-something-to-you}@.
+    That one's an easy one, @{taunt-name}@.
+    Perhaps one with bumpers on might be closer to your skill level.
+    Hurry up and choose a way to die, @{taunt-name}@.
+    This one looks like it was designed by a @{living-adjective}@ @{living-thing}@.
+    @{non-sequiturs}@
+}
+
+final-goodbye {
+    Thanks for playing, @{taunt-name}@.
+    Good game, @{taunt-name}@.
+    Nice killing you, @{taunt-name}@.
+    Kill you later.
+    Until next time, @{taunt-name}@.
+    Adios @{taunt-name}@.
+    We will meet again.
+}
+
+do-something-to-you {
+    get started
+    get to killing you
+    start the carnage
+    begin the mayhem
+    commence the proceedings
+}
+
+other-game {
+    @{living-thing}@ @{game}@
+    pong
+    tiddly winks
+}
+
+game {
+    tennis
+    golf
+    basketball
+    football
+    cricket
+    soccer
+}
+
+things-to-tire-of {
+    beautiful face
+    deep blue eyes
+    enchanting company
+}
+
+shake-type {
+    shake
+    wiggle
+    run
+    brush
+    lick
+    kiss
+}
+
+dead-thing {
+    doornail
+    dead thing
+    dodo
+    T-Rex on a Tuesday
+}
+
+taunt-name {
+    charlie
+    bro
+    sweetie
+    Einstein
+    freakazoid
+}
+
+overall-reaction {
+    a surprise
+    not surprising at all
+    a sudden turn
+    unfortunate
+    a predictable demise
+    an artistic end
+    one of your better attempts, sadly
+}
+
+hello-things {
+    your goodbye
+    tomorrow for me
+    the darkness
+    eternal darkness
+    my little friend
+}
+
+death-adjectives {
+    such sweet release
+    the final indignity
+    your only escape
+    it's for ever bro
+    it's not just for Christmas
+    why not?
+    do you want fries with that?
+}
+
+could-do-better {
+    @{better-thing}@ could have done better
+    I'd expect more from @{better-thing}@
+    @{better-thing}@ would be ashamed by that effort
+    what are you, @{better-thing}@?
+}
+
+better-thing {
+    a @{living-adjective}@ @{living-thing}@
+    a @{consumable-adjective}@ @{consumable}@
+    your mom
+    my mom
+    your dad
+    my dad
+}
+
+living-adjective {
+    left handed
+    right handed
+    three fingered
+    one legged
+    three legged
+    cross-eyed
+    one-eyed
+    comatose
+    frigid
+    frolicking
+    cross-legged
+    constipated
+    flustered
+    clockwise
+}
+
+living-thing {
+    squirrel
+    rabbit
+    wombat
+    pigeon
+    dachshund
+    hippo
+    ostrich
+    budgie
+    giraffe
+}
+
+consumable {
+    @{sandwich}@
+}
+
+consumable-adjective {
+    moldy
+    crispy
+    soggy
+    limp
+    festering
+    luke warm
+    frozen
+    toasted
+    pasty
+}
+
+sandwich {
+    ham sandwich
+    chicken sandwich
+    turkey sub
+    peanut butter sandwich
+    egg McMuffin
+    BLT
+    falafel
+}
+
+ai-death {
+    @{ouch}@
+    @{you-were-lucky}@
+    @{didnt-hurt}@
+    @{didnt-hurt}@ @{taunt-name}@
+    @{return}@
+}
+
+ouch {
+    ouch!
+    yaber daber doo
+    ow ow ow
+    son of a ...
+    I felt that
+    that's a stinger
+}
+
+you-were-lucky {
+    you got lucky
+    a stroke of good fortune
+    how did you pull that off
+    you won't be able to do that again
+    beginners luck
+    try it again @{taunt-name}@
+}
+
+didnt-hurt {
+    didn't hurt a bit
+    just makes me madder
+    is that all you got?
+    'tis just a scratch
+    fortunately I've got two of those
+    I wasn't using that one
+}
+
+return {
+    I shall return
+    I will avenge this
+    You have not seen the last of me
+    a temporary setback
+    a minor inconvenience
+    just you wait
+    you aint seen the last of me
+}
+
+show-bomb {
+    This here is a bomb. It blows up. Quite painfully so I'm told.
+}
+
+show-flag {
+    A flag. If you capture this and hold it for a long time, you win!
+}
+
+show-heart {
+    This is an extra heart. Collect these to stay healthy. If you run out you die!
+}
+
+show-redheart {
+    This red heart causes your enemy to lose a heart. If they run out they die!
+}
+
+show-multibomb {
+    Explodes into three bombs. Steer well clear of these guys!
+}

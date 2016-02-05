@@ -1,0 +1,25 @@
+Metadata-Version: 1.0
+Name: automusic
+Version: 0.1
+Summary: GAMEDESCRIPTION
+Home-page: URL
+Author: AUTHOR
+Author-email: EMAIL
+License: UNKNOWN
+Download-URL: URLTOGAME-0.1.tar.gz
+Description: automusic
+        ---------
+        
+        Requires: Python 2.6+ and pygame 1.9+
+        
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2
+Classifier: Development Status :: 4 - Beta
+Classifier: Environment :: Other Environment
+Classifier: Intended Audience :: End Users/Desktop
+Classifier: License :: OSI Approved :: GNU Library or Lesser General Public License (LGPL)
+Classifier: Operating System :: OS Independent
+Classifier: Topic :: Games/Entertainment
+Classifier: Topic :: Games/Entertainment :: Puzzle Games

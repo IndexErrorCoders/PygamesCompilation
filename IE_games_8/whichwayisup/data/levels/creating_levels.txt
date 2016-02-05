@@ -1,0 +1,62 @@
+=== INTRODUCTION ===
+
+Feel free to add your own levels! They can be played by starting the game
+with the parameter -l <level name>, where level name is the file name of your
+level without the .txt extension. The empty_level text file in this directory
+is a good starting point for your own levels. The game always starts from the
+bottom right corner of the level files. A brief description of the level format
+follows:
+
+=== THE TILESET ===
+The first row is usually used for choosing the tileset. This happens with the
+"set" keyword. The game currently has two tilesets, brown and green. Brown
+is the default.
+
+=== TILE DATA ===
+
+20 rows after the keyword "tiles" are for the tile data. Case sensitive.
+W                   - Wall tile.
+S                   - Spikes tile.
+B                   - Bars tile.
+Any other character - Empty space. Different tile types might be added in the
+                      future, but at least space and . are safe to use for
+                      empty space.
+
+=== OBJECTS ===
+
+Then comes the object and scripted event data. The official level files are
+good examples for adding these. There will probably be improvements to the
+scripting system later, but as of now, it's quite pritimitive and meant mainly
+for giving messages to the player and changing levels.
+
+The game currently supports 5 kinds of objects:
+player (always add this first)
+lever
+spider
+blob
+pickable items (key, other_pants, power_crystal)
+
+These all are followed by two common parameters - x and y in game tiles.
+
+spider has one extra parameter - the direction of the surface it's attached to.
+This can be LEFT, RIGHT, UP or DOWN. This parameters changes automatically
+when the level is rotated.
+
+lever has two extra values - the amount of times it can be activated and the
+thing that it does. Currently the only supported action is TRIGGER_FLIP, which
+rotates the level 90 degrees clockwise.
+
+=== SCRIPTED EVENTS ===
+
+Scripted events are started with a trigger row, which specifies the trigger
+type and how many times the event can be repeated.
+
+Trigger types:
+level_begin       Activated when the gameplay first begins
+flipped           Activated when the level has been rotated
+key               An item with the ID "key" has been picked up
+
+Implemented scripted event actions are:
+change_level         Changes the level
+dialogue             Prints a text message to the middle of the screen.
+player orientation   Makes the player face LEFT or RIGHT.

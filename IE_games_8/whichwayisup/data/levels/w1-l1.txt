@@ -1,0 +1,73 @@
+set green
+
+tiles
+WSSSSSSSWWWWW.W....W
+W       WW  W    W W
+W   W              W
+W           W  WWW W
+W  W      W    W   W
+W     W   W    W   W
+W         W   WW   W
+W    W   WWWWWWW  WW
+W        WS W     WW
+WWWW     WS W      S
+W S      W  W      S
+W           W      S
+W           W      S
+W WWWWWWWWWWWWW    S
+W W    WW          S
+W W    W   WSSSW   W
+W W    W           .
+W W W  W  WSSSSSW  W
+W   WW             B
+WWWWWWWSSSSSSSSSSWWW
+
+player 18.5 18.55
+lever 14.5 12.5 1 TRIGGER_FLIP
+lever 9.5 4.5 1 TRIGGER_FLIP
+lever 11.5 8.5 1 TRIGGER_FLIP
+lever 8.5 17.5 1 TRIGGER_FLIP
+spider 9.5 14.5 LEFT
+spider 19.5 16.5 RIGHT
+spider 17.5 4.5 UP
+spider 18.5 6.5 DOWN
+spider 15.5 0.5 UP
+spider 13.5 0.5 UP
+blob 9.5 6.5
+blob 11.5 3.6
+spider 1.5 10.5 UP
+spider 1.5 7.5 LEFT
+spider 6.5 7.5 LEFT
+blob 3.5 16.5
+spider 6.5 14.5 UP
+power_crystal 10.5 16.5
+
+
+trigger level_begin 1
+player orientation LEFT
+dialogue ...
+dialogue Ok, hard way or the easy but painful way?
+dialogue I'm counting on you, man!
+end trigger
+
+trigger power_crystal 1
+dialogue Another one, whoa!
+dialogue Let's boogie!
+player orientation LEFT
+wait
+wait
+player orientation RIGHT
+wait
+wait
+player orientation LEFT
+wait
+wait
+player orientation RIGHT
+wait
+wait
+player orientation LEFT
+wait
+wait
+dialogue Feel it, man, feel it!
+change_level
+end trigger

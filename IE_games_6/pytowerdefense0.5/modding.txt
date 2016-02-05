@@ -1,0 +1,26 @@
+This document tells you how to modify or add content to the game.
+
+
+
+Add another level (creep) into the game:
+
+0) Open up Creeps.py
+1) Copy all code related to the Creep furthest down in Creeps.py and paste it below. 
+Don't forget to increment the X in Creep_X(Creep) by 1. 
+The game automatically detects this, and there is magically another level in the game!
+2) However, you might want to customize the creep you just made. Increase health/speed or any other modifications you wish..
+3) The creep will look like a level 1 creep if you don't do something about it in main.py. 
+    3.1) Go to main.py
+    3.2) Search for "LEVEL_1_FILENAMES". 
+    3.3) Copy the code-block related to it and paste it below the FILENAME-specification furthest down.
+    3.4) Replace the number 1 with the level the creep you made is going to represent.
+    3.5) Now change the image set provided in the python list to that of another level or to an image set you've made yourself.
+
+
+Add another tower:
+0) Open up Towers.py
+1) Copy all code related to the Tower furthest down in the file, and paste it below. 
+Don't forget to increment the X in Tower_X(Tower) by 1. 
+The game automatically detects the new tower, and adds it to the game.
+2) You probably want to change something in it, though. Change damage, speed, attack range (radius), and cost and anything else you can think of.
+3) Replace the image file if you want. Should be 40x40 pixels. You could also assign it a different projectile.

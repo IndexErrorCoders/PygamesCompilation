@@ -1,0 +1,27 @@
+Metadata-Version: 1.1
+Name: qanat
+Version: 0.7
+Summary: A shoot-em-up inspired by the classic Galaxians game. Repel waves of invaders using your gun turret. Manage the temperature of the turret to avoid overheating and watch your ammo level to avoid running out in the later levels.
+Home-page: http://perpetualpyramid.com/qanat.html
+Author: Paul Paterson
+Author-email: ppaterson@gmail.com
+License: UNKNOWN
+Download-URL: http://perpetualpyramid.com/qanat-0.7.tar.gz
+Description: QANAT
+        -----
+        
+        A shoot-em-up inspired by the classic Galaxians game. Repel waves of invaders using your gun turret. Manage the temperate of the turret to avoid overheating and watch your ammo level to avoid running out in the later levels.
+        
+        Requires: Python 2.6+ and pygame 1.9+
+        
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2
+Classifier: Development Status :: 4 - Beta
+Classifier: Environment :: Other Environment
+Classifier: Intended Audience :: End Users/Desktop
+Classifier: License :: OSI Approved :: GNU Library or Lesser General Public License (LGPL)
+Classifier: Operating System :: OS Independent
+Classifier: Topic :: Games/Entertainment
+Classifier: Topic :: Games/Entertainment :: Puzzle Games

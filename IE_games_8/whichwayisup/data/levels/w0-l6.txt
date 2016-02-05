@@ -1,0 +1,57 @@
+set brown
+
+tiles
+W...................
+W   W   WW WWWWWWW .
+WW       W       W .
+W        W  W  W W .
+W    W   W    WW W .
+WW       WW      W .
+WW     WWW   W   W W
+    W      S    W  .
+   W      WWWWWW   W
+W                  W
+W       W      W   .
+     W     W W   W .
+W  W       W       .
+W  W WW            W
+W  W              WW
+W  W WW  W     W   W
+W  W  W            W
+W  W W W     W     W
+W  W W WW          W
+WW   W.............B
+
+player 18.5 19.55
+other_pants 6.5 17.5
+spider 15.5 16.5 UP
+spider 13.5 18.5 UP
+spider 11.5 13.5 UP
+spider 9.5 16.5 UP
+spider 17.5 14.5 RIGHT
+spider 18.5 9.5 RIGHT
+lever 15.5 7.5 1 TRIGGER_FLIP
+spider 12.5 2.5 UP
+spider 8.5 11.5 UP
+spider 19.5 5.5 DOWN
+lever 8.5 2.5 1 TRIGGER_FLIP
+spider 1.5 0.5 LEFT
+spider 1.5 4 LEFT
+spider 2.5 6 LEFT
+spider 1.5 9.5 LEFT
+lever 0.5 11.5 1 TRIGGER_FLIP
+spider 4.5 8.5 UP
+
+trigger level_begin 1
+player orientation LEFT
+dialogue Oh, I'm getting close!
+dialogue I can so smell my other pants in here!
+dialogue ...
+dialogue Actually, it kind of reminds me of doing the laundry more often,
+dialogue but I guess I have bigger problems at hand. Onwards!
+end trigger
+
+trigger other_pants 1
+dialogue Other pants! Yay! Now, let's get out of here!
+change_level
+end trigger

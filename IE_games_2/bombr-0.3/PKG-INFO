@@ -1,0 +1,36 @@
+Metadata-Version: 1.1
+Name: bombr
+Version: 0.3
+Summary: A Bomberman Clone
+Home-page: URL
+Author: Paul Paterson
+Author-email: ppaterson@gmail.com
+License: UNKNOWN
+Download-URL: bomberman-0.3.zip
+Description: BOMBR
+        -----
+        
+        A Bomberman clone. Play against the smack-talking AI over
+        5 levels of frantic bombing action.
+        
+        
+        Requires: Python 2.6+, pygame 1.9+, NetworkX 1.8 (included)
+        
+        To run the game:
+        
+            python bombr.py
+        
+        
+        Thanks for playing!
+        
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2
+Classifier: Development Status :: 4 - Beta
+Classifier: Environment :: Other Environment
+Classifier: Intended Audience :: End Users/Desktop
+Classifier: License :: OSI Approved :: GNU Library or Lesser General Public License (LGPL)
+Classifier: Operating System :: OS Independent
+Classifier: Topic :: Games/Entertainment
+Classifier: Topic :: Games/Entertainment :: Puzzle Games

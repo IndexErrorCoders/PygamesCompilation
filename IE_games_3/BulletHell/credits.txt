@@ -1,0 +1,20 @@
+Bullet Hell
+Ivy Kwan, Evan Minto, Brian Rana, Ben Shippee, Adam LeClair
+
+Team contributions: 
+Ivy Kwan:
+Character design, sprite animation (w/ Evan), background art, illustrations
+
+Evan Minto:
+HUD design and programming, bullet graphics, sprite animatics, tutorial graphics, enemy code (w/ Ben), art implementation
+
+Brian Rana:
+Level design, level music, boss music
+
+Ben Shippee:
+Player code (w/ Adam), Enemy code, Enemy Behaviors, Enemy grouping, Projectile code, Level Design (W/ Brian) 
+
+Adam LeClair:
+Engine architecture, core gameplay implementation, object technical design, boss scripting, particles
+
+

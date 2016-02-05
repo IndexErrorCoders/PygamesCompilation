@@ -1,0 +1,7 @@
+# This is a list of animation frames.
+# There are two keywords: frame and repeat_times.
+# Repeat_times tells how many times the animation should be repeated. Default is -1, which means repeating infinitely.
+# Frame stands for a single animation frame. The second number after frame stands for the playing time of the animation frame in game engine frames. The parser doesn't currently care about the first number, but it can be used for indexing.
+frame 0 3
+frame 1 3
+frame 2 3

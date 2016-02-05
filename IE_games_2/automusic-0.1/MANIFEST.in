@@ -1,0 +1,11 @@
+include graphics/*.*
+include sound/*.*
+include music/*.*
+include fonts/*.*
+include instruments/*.*
+include instruments/flute/*.*
+include instruments/organ/*.*
+include instruments/piano/*.*
+include instruments/reverbpiano/*.*
+include *.py
+include *.txt

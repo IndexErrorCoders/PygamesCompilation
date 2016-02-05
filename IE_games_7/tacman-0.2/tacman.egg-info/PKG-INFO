@@ -1,0 +1,31 @@
+Metadata-Version: 1.0
+Name: tacman
+Version: 0.2
+Summary: A tactical, turn-based clone on PACMAN
+Home-page: http://www.perpetualpyramid/tacman.html
+Author: Paul Paterson
+Author-email: ppaterson@gmail.com
+License: UNKNOWN
+Download-URL: http://perpetualpyramid.com/tacman-0.2.tar.gz
+Description: TACMAN
+        ------
+        
+        A turn-based, tactical version of PACMAN.
+        
+        Play a PACMAN clone where the action is turn based. You move and then the 
+        ghosts move. The turn-based action adds additional tactical elements to the
+        game and allows you to plan ahead and outwit the ghosts!
+        
+        Requires: Python 2.6+, pygame 1.9+, networkx
+        
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2
+Classifier: Development Status :: 4 - Beta
+Classifier: Environment :: Other Environment
+Classifier: Intended Audience :: End Users/Desktop
+Classifier: License :: OSI Approved :: GNU Library or Lesser General Public License (LGPL)
+Classifier: Operating System :: OS Independent
+Classifier: Topic :: Games/Entertainment
+Classifier: Topic :: Games/Entertainment :: Puzzle Games

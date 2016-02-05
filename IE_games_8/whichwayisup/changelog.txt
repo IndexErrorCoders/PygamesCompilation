@@ -1,0 +1,138 @@
+==============================
+== POSSIBLE FUTURE FEATURES ==
+==============================
+
+New features for versions beyond 0.8.0, in order of priority:
+ -Add saving of replays and enable playback as a ghost during gameplay
+ -Add animation scripting
+ -Improve scripting in general
+ -Improve packaging and make an automated Windows installer
+ -Add random level generator
+ -Fix collision detection related minor bugs and annoyances
+ -Add umbrella?
+ -Add background animation
+ -Improve performance and clean up code
+
+
+
+======================
+== CURRENT PROGRESS ==
+======================
+
+Changes from Beta 0.7.0 to Beta 0.7.9:
+ -Added alternate control configuration for zero or one button joysticks
+ -Refactored menu code to enhance reusability
+ -Added fullscreen mode
+ -Added log message about using the Windows APPDATA directory instead of the UNIX HOME
+ -Moved the render_gui function from util.py to game.py
+ -Cleaned up code and added comments
+ -Added basic tile-based level editing capabilities
+ -Added helper lines to the background images to make rotating easier for the player
+ -Added developer feature: Objects remember their initial positions and objects are rendered there translucently while in developer mode
+ -Increased upward acceleration in air (while holding Z) to compensate for engine changes
+ -Fixed Guy's flipping position correction code and misdetected collisions right after flipping
+ -Added Guy's exit animation
+ -Improved event processing: Flip triggers now always have the correct flip direction
+
+To be done for Beta 0.8.0:
+ -Reorganize game menus and add a custom level menu?
+ -Add more levels and enemy types
+ -Add ingame credits
+ -Balance and polish existing levels
+
+
+
+===================
+== PAST PROGRESS ==
+===================
+
+Changes from Beta 0.6.5 to Beta 0.7.0:
+ -Added support for different worlds and all kinds of strings as level names
+ -Added world 2: The Other Side with levels 1-7
+ -Added Blob enemy type
+ -Added spider cannon moving animation
+ -Added themed object fallback to the default brown theme
+ -Added the power crystal
+ -Changed blood particle behaviour to make bleeding look better
+ -Added graphical health bar
+ -Fixed glitch: spider cannons don't fire if the player is in the other direction
+ -Fixed glitch: the "augh" sound now plays when the player dies
+ -Added game icon
+ -Added fading in and out effects
+ -Adjusted levels 6-7 of world 1
+ -Fixed one or zero button joystick crash
+ -Fixed no sound device crash
+ -Added feature: The level can now rotate counter-clockwise according to the lever location
+ -Added speedrun timer
+ -Improved the instructions given in the dialogue in the beginning
+ -Added error logging to a file and supressed printing errors to the console by default
+ -Added pause game functionality
+ -Added a transparent background for dialogue to make the text more readable
+ -Fixed bug: Player doesn't take damage when he hits spikes and solid ground at the same time with a high velocity any more
+
+Changes from Beta 0.6.0 to Beta 0.6.5:
+ -Fixed glitch: The player isn't able to trigger another switch when the playing field is going to rotate
+ -Fixed glitch: The player can't jump while dying
+ -Added feature: The game remembers the highest score of the player
+ -Changed scoring to lessen the effect of the player's health
+ -Changed the level file format to enable different tilesets
+ -Changed the level background to an animateable object (but didn't animate yet)
+ -Added support for easy addition of pickable items (no changes to the code required)
+ -Added level 7 and other pants
+ -Added scrolling to the menu
+ -Changed the order of level 2 and 3 to achieve more progressive difficulty, edited related dialogue
+ -Changed the (new) level 2 slightly
+ -Cleaned up and simplified the code by separating dynamic and static objects. This also improved performance.
+  Gameobject is now DynamicObject, which inherits the new class VisibleObject.
+  VisibleObjects handles only animations, flipping and rendering.
+
+Changes from Beta 0.5.5 to Beta 0.6.0:
+ -Improved dialogue
+ -Added feature: Spiders are now able to cling to the edges of the screen
+ -Added caching of animation frames to lessen memory requirements
+ -Added caching of level ground_check inquiries to improve performance
+ -Improved level 6
+ -Improved performance with faster spider and projectile collision detection
+ -Changed: Lowered framerate from 25 to 24 to make the game just slightly slower and easier
+ -Improved usability: The level the player last played is chosen in the menu after a death
+ -Cleaned up and commented some code
+ -Increased the size of the skip dialogue button image
+ -Added error handling if the game doesn't find the level specified
+
+Changes from Beta 0.5.0 to Beta 0.5.5:
+ -Added joystick/gamepad support
+ -Added lever animation
+ -Added levels 5 and 6
+ -Added score display after loss and victory
+ -Fixed projectiles leaking off the top of the screen
+ -Changed: Projectiles now stay on screen after flipping
+
+Changes from Alpha 0.3.0 to Beta 0.5.0:
+ -Made the player a bit smaller to make it easier to get through narrow passages while jumping
+ -Increased player health
+ -Added on screen game over messages and player hp changes on game over and victory
+
+Changes from Alpha 0.2.0 to Alpha 0.3.0:
+ -Fixed "woosh" sound (the sound that the flip levers make)
+ -Improved dialogue
+ -Adjusted scoring
+ -Adjusted player jump height when hitting spikes - it's possible to jump out of a spike pit two tiles deep now
+ -Added third and fourth levels
+ -Added documentation about creating levels
+ -Added -l command line parameter for starting from a different level (debugging)
+ -Fixed collision detection "jitter" bug when colliding with a wall on the left
+ -Fixed top attached spider bug
+ -Replaced jumping sound effect
+ -Changed: Player's health now stays the same over the levels
+ -Added unlocked levels saving
+ -Added main menu with dialogue and sound toggling
+
+Changes from Alpha 0.1.0 to Alpha 0.2.0:
+ -Added basic script & dialogue support
+ -Added dialogue to the first level
+ -Added code for level change & victory / loss to the main class
+ -Added second level
+ -Changed: Lowered the spikes so that they can be jumped over more easily
+
+Alpha 0.1.0:
+ -First available test build

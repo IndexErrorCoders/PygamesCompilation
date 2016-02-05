@@ -1,0 +1,53 @@
+set brown
+
+tiles
+WSSSSSSSWWWWWWWWWWWW
+W       SWW    W   W
+W   WW   SW      W W
+W         S      S W
+WWW          W   S W
+W          WW    S W
+W  W             W W
+W                  W
+WW    S           WW
+W        WW        W
+W  W W WWWWW W     W
+W    W   WW     W  W
+S  SSS    W        W
+W             W    W
+W                W W
+S   W  WS  W       W
+S      WWS     W   W
+S       WW        WW
+S W  W   W         B
+WWWWWWWW WWWWWWWWWWW
+
+player 16.5 18.55
+key 8.5 19.5
+spider 11.5 12.5 LEFT
+spider 12.5 15.5 LEFT
+spider 18.5 10.5 RIGHT
+spider 18.5 1.5 UP
+spider 10.5 8.5 DOWN
+spider 1.5 2.5 LEFT
+lever 18.5 7.5 1 TRIGGER_FLIP
+lever 8.5 11.5 1 TRIGGER_FLIP
+lever 3.5 11.5 1 TRIGGER_FLIP
+
+trigger level_begin 1
+dialogue And here we are.
+end trigger
+
+trigger flipped 1
+dialogue Over the top, eh? I've got it.
+end trigger
+
+trigger key 1
+dialogue Finally!
+dialogue ...
+dialogue Hey, what the heck?
+dialogue This isn't the right key either.
+dialogue ...
+dialogue I sort of see a pattern here.
+change_level
+end trigger

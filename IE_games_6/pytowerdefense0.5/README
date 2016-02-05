@@ -1,0 +1,14 @@
+HOW TO RUN?
+
+Windows .exe:
+Run PyTowerDefense.exe (or main.exe if you have one)
+
+From source:
+1) Install Python 2.6 (www.python.org) and the newest Pygame (www.pygame.org) (Currently 1.9.1).
+2) Run main.py with python.
+
+Copyleft (2009) Marco Baxemyr GNU GPLv3
+Most art credit goes to Alexander Eriksson
+
+Sourceforge.net: https://sourceforge.net/projects/pytowerdefense/
+Wiki: http://sourceforge.net/apps/mediawiki/pytowerdefense/index.php?title=Main_Page

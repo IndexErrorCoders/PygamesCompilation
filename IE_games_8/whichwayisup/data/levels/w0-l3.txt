@@ -1,0 +1,44 @@
+set brown
+
+tiles
+WS        W   WWWWWW
+W  WWWWWW   W   W  S
+W   WSSWWWWWW      S
+WW  W  W    W      S
+B   W    W  W      S
+W  WW      WW      S
+W   W       W  W   W
+WW  W  WWWWWW      W
+W   W  W    W    S W
+W WWW        W  WW W
+W   W     W   W  W W
+W   W     W   WW W W
+W   W     WW  W    W
+WS   WWWWW    W W SW
+WS    W      WW    W
+W    WWWWWWW  WW   W
+W   W   W     W    W
+WS          WWW WS W
+WWW   W      B     B
+WWWWWWWWWWWWWWWWWWWW
+
+player 18.5 18.55
+lever 18.5 7.5 1 TRIGGER_FLIP
+lever 9.5 0.5 1 TRIGGER_FLIP
+lever 3.5 10.5 1 TRIGGER_FLIP
+lever 9.5 16.5 1 TRIGGER_FLIP
+lever 7.5 12.5 1 TRIGGER_FLIP
+lever 9.5 12.5 1 TRIGGER_FLIP
+spider 2.5 8.5 DOWN
+spider 11.5 8.5 UP
+spider 13.5 10.5 UP
+spider 11.5 6.5 DOWN
+spider 11.5 17.5 RIGHT
+spider 13.5 6.5 LEFT
+key 11.5 6.5
+
+trigger key 1
+player orientation LEFT
+dialogue Seriously, where have all the good keys gone?
+change_level
+end trigger

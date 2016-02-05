@@ -1,0 +1,9 @@
+include graphics/*.*
+include sound/*.*
+include music/*.*
+include fonts/*.*
+include *.py
+include *.txt
+include levels/*.tmx
+include levels/*.xml
+include game/*.txt

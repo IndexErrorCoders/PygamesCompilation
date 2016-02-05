@@ -1,0 +1,59 @@
+set brown
+
+tiles
+SSSSSS....S.........
+            W     W.
+       WW     W    .
+       S           .
+    WS            SW
+           SWW  W  .
+W          S W     .
+     W WWW W WWWWWW.
+    WW W           .
+     W WWWWW  W WS W
+W    W       W     .
+     W    W        .
+    WWS   W WWWW WWW
+    W   W W        .
+           WW  W   .
+   W   W   W       .
+ W   W     W    W  W
+S      WW  W       .
+  WWS W     W W    .
+W       WW         .
+
+player 15.5 19.55
+spider 12.5 17.5 LEFT
+spider 19.5 17.5 RIGHT
+spider 11.5 13.5 LEFT
+spider 19.5 13.5 RIGHT
+spider 19.5 10.5 RIGHT
+spider 8.5 8.5 LEFT
+spider 14.5 6.5 LEFT
+spider 13.5 1.5 LEFT
+spider 15.5 2.5 LEFT
+spider 9.5 2.5 LEFT
+spider 9 6.5 DOWN
+spider 4.5 7.5 DOWN
+spider 0.5 9.5 DOWN
+spider 4.5 11.5 DOWN
+spider 2.5 17.5 DOWN
+spider 4.5 14.5 UP
+spider 6.5 17.5 DOWN
+spider 8.5 14.5 UP
+lever 19.5 8.5 1 TRIGGER_FLIP
+lever 12.5 6.5 1 TRIGGER_FLIP
+lever 0.5 11.5 1 TRIGGER_FLIP
+key 1.5 19.5
+
+trigger level_begin 1
+dialogue Ok, let's get it on!
+end trigger
+
+trigger key 1
+player orientation LEFT
+dialogue Hey! Now I remember!
+dialogue I left my key in my other pants.
+dialogue Now, where the hell did I leave my other pants?
+change_level
+end trigger

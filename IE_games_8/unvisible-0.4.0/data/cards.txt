@@ -1,0 +1,64 @@
+Mark	Slinky Suzie	A yoga instructor with exceptional body flexibility. Watch out for her downward dog.	girl-smiling.png	18	16
+Mark	Anemic Andy	A fragile computer programmer who lives in his mother's basement. He would be injured in a collision with a house fly.	smiling-man-face.png	21	14
+Mark	Bubonic Brian	A festering heap of a man. The merest whiff of one of his arm pits can be enough to bring a grown man to his knees.	sad-man-face.png	19	18
+Mark	Celestial Sam	A will-o'-the-wisp of a woman. She flits from place to place, and barely seems to be at any one place at a time. 	football-player.png	18	17
+Mark	Girders Gretch	You could use Gretch's limbs to remake the Forth bridge and still have enough left over for a fifth and sixth.	two-tone-hair.png	18	20
+Mark	Iron Ivan	Tough as nails and about as bright. Ivan comes from a long line of thugs and brutes.	goofy-man.png	23	22
+Mark	Tungsten Tom	A piano once fell on Tom's head and he thought he was Billy Joel for a week.	angry-man.png	20	23
+Location	Narrow Alley	Darkly deserted, this alley offers an intimate location for those special moments.	alley.png	0	4
+Location	Shopping Mall	Need to bop someone off and pick up some milk? Then this is your perfect spot.	mall.png	2	3
+Location	The office 	Does jaming someone's head into a shredder count as a workplace injury?	office.png	1	4
+Location	Bedroom	We all want to go peacefully in our sleep. Some will go earlier than others.	bedroom.png	1	5
+Weapon	Revolver	Simple. Clean. Classic. The weapon of choice for the discerning assassin.	revolver.png	3	2
+Weapon	Machine gun	If it is good enough for the mob then it is good enough for you.	machine-gun.png	5	5
+Weapon	Hand grenade	Your victim will be blown away by your choice of weapon.	hand-grenade.png	6	4
+Weapon	Butter knife	They won't believe its not a butter knife. But it is!	butter-knife.png	0	1
+Weapon	Machete	A little off the side sir? Well of course I can oblige.	machette.png	0	2
+Weapon	Cyanide 	Success smells vaguely of almonds.	cyanide.png	-2	3
+Offensive	Silencer	All the same fun for much less noise.	silencer.png	-2	0
+Offensive	Toothache	Your victim is focused on the pain in their mouth and not on their impending doom.	toothache.png	1	1
+Offensive	Dicky heart	The victim is having palpitations, but not in a good way.	heart-attack.png	2	2
+Offensive	Line of sight	Come and stand out here in the open like a good mark.	line-of-sight.png	3	2
+Defensive	Swift sidestep	Michael Jackson would have been proud of this move	side-step.png	0	-1
+Defensive	Spider sense	Is that a newspaper I sense headed in my direction?	spider-sense.png	0	-2
+Defensive	Fingerprint	Oops. Wearing gloves might be an idea next time.	fingerprint.png	2	0
+Policeman	McSplattery	It ain't always clean, in fact sometimes it is a complete mess, but he sometimes gets his man.	detective.png	2	0
+Policeman	Shlock Drones	Sharp as a pointy thing but he does like to go on and on about dogs not barking and undrunk tea.	detective.png	3	0
+Policeman	Shirley Basset	Steady, dependable, and possessing a wickedly wet nose.	detective.png	1	0
+Policeman	Miss Maple	Sweet but sticky, you won't throw her off the scent easily	detective.png	3	0
+Policeman	The Mupetalist	She used to work with a frog and a pig but now Jane Patrick is a private eye. 	detective.png	2	0
+Policeman	Horiblatio	He wears his shades even at night. Maybe that's why .. (Glasses off) .. he's always in the dark	detective.png	1	0
+Policeman	Monkfish	ADD and a five second memory are just two of the issues addicting this amiable archenemy.	detective.png	1	0
+Policeman	Catfeet Bower	Hungry to get you, this highly strung lady has stamina too. She won't peter out ...	detective.png	3	0
+Policeman	Liam Nooson	He has a particular set of skills and he will find you	detective.png	5	0
+Policeman	Veroniq Muse	She retired to write a biography of Englebert Humperdink but now she is back for one last case.	detective.png	2	0
+Policeman	Scooby Didn't	He would have solved his last case if it wasn't for those pesky kids.	detective.png	1	0
+Defensive	Footprint	Those size 14's are going to give you away every time.	footprint.png	1	0
+Offensive	Surprise!	He wasn't expecting that. He wasn't expecting that at all!	surprise.png	2	3
+Offensive	Distraction	Hey - what's that over there? 	distraction.png	1	3
+weapon	Rope	Don't leave me hanging around.	rope.png	1	1
+weapon	Hunting knife	Release the hounds!	hunting-knife.png	1	2
+weapon	Flame thrower	Is it hot in here or is it just me?	flame-thrower.png	4	4
+weapon	Bare hands	Mr Left, say "Hello" to Mr Right.	hands.png	0	1
+weapon	Poison dart	Tipped with the venom of an Asiatic frog. Thanks Kermit.	poison-dart.png	-1	3
+Defensive	Eye witness	Eye spy with my little eye, something begining with murder	eye-witness.png	3	0
+Defensive	DNA sample	From this sample we can identify the assailants height, weight, and taste in music.	dna.png	4	0
+Defensive	Fiber strand	This thread comes from a sweater with a picture of a poodle embroidered on it.	thread.png	1	0
+Offensive	Wear a mask	I borrowed this from Zorro. 	mask.png	-1	0
+Offensive	Disguised	This moustache tickles my nose.	disguise.png	-2	0
+Defensive	Camera	Smile - your on criminal camera!	surveillance-camera.png	2	0
+Defensive	Passer by	Move along - nothing to see here. Except that murder going on in the corner.	passer-by.png	2	0
+Defensive	Body guard	Houston has a problem - but at least Costner is here to help out.	body-guard.png	2	-3
+Defensive	Guard dog	Sit. Stay, Chew his bloody leg off.	guard-dog.png	1	-2
+Offensive	Ninja skills	Is that a shadow over there?	ninja.png	2	4
+weapon	Hammer	If everyone looks like a nail then the only tool you need ...	hammer.png	2	2
+weapon	Piano	Q: Do you know a piano is falling on your head? A: No, but hum it and I'll join in.	piano.png	3	4
+Location	Seaside	Oh I do like to be beside the seaside. Sun, sand, and a silencer. What could be nicer?	beach.png	2	3
+Location	Kitchen	The perfect place to cook up the perfect crime.	kitchen.png	0	3
+Location	Mountain	Life has its up and downs. Death mostly the downs.	mountains.png	0	5
+Location	Road	Ever think you are stuck on a road to nowhere? Well in this case the mark is right.	road.png	1	4
+Location	Train	All aboard the Orient Express. Second only to the Titanic in life expectancy.	train.png	2	5
+Location	Park	Come to the park to smell the roses. Stay for ever to slowly feed them.	park-bench.png	2	2
+Location	Garden	Some people get deeply into gardening. Others will be deep in their garden.	garden.png	1	2
+Location	Boat	Is that a fish I see down there? Why don't you take a closer look?	boat.png	2	4
+Location	Woods	If you go down to the woods today ... you probably wont be coming back any time soon.	woods.png	0	3

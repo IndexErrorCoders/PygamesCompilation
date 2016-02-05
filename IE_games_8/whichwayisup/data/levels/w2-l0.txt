@@ -1,0 +1,43 @@
+set grey
+
+tiles
+WWWWWWWWWWWWW      W
+W   W   W     W    S
+            W      S
+  W   W            S
+        S S S      S
+W   S              S
+        W   W   W  S
+W W       W W      W
+W                  W
+W   W  W    S S W SW
+W                  W
+WWW   W S    W   W W
+ W    S            W
+ W    S  W   S S  SW
+ WWWS WW           .
+ W    S   W  W  W  .
+ W W  S            .
+ W W  WW   W S S W .
+                   .
+WWWWWWWWSSSSWWWSSSSW
+
+lever 17.5 10.5 -1 TRIGGER_FLIP
+lever 2.5 12.5 -1 TRIGGER_FLIP
+lever 7.5 1.5 -1 TRIGGER_FLIP
+spider 8.5 14.5 LEFT
+spider 0.5 3.5 LEFT
+spider 0.5 17.5 LEFT
+cake 0.5 17.5
+player 19.5 18.55
+
+trigger level_begin 1
+dialogue Damn, searching for power crystals has really made me hungry.
+dialogue I wonder if there is some cake nearby?
+end trigger
+
+trigger cake 1
+dialogue Mm, delicious cake.
+dialogue Just what I was looking for!
+change_level
+end trigger

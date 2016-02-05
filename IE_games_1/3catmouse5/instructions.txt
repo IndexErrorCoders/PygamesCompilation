@@ -1,0 +1,89 @@
+A Game of Cat and Mouse
+
+Detailed Instructions
+
+
+Object of the game:
+
+The mouse is trying to obtain the cheese and return home.
+The cat is trying to eat the mouse.
+
+The mouse must walk onto both the cheese and then its home.
+When the cat's head is in contact with the mouse or the timer runs out, the cat wins.
+
+
+Cat controls:
+
+Movement: WASD
+Pounce: Left Ctrl
+The pounce is a short burst of speed followed by a small state of immobility.
+
+Mouse controls:
+
+Movement: Arrow keys
+Sprint: Right Shift
+The sprint is a temporary speed boost for the mouse that lasts a set amount of time. It must only be pressed to activate -- holding the button has no extra effect.
+
+
+Stamina:
+
+The stamina bar depletes when a pounce or sprint is activated. It automatically regenerates afterwards, and when it becomes full, pouncing or sprinting can again be activated.
+
+
+Mouse traps:
+
+If a mouse is caught in a trap, it must wiggle out by rapidly pressing the arrow keys 12 times.
+The cat can set off traps, but it is only stopped from moving.
+Traps also reduce stamina used for pouncing and sprinting.
+
+
+Safe zones:
+
+These are yellow areas typically surrounding the cheese and mouse home. The cat cannot enter these areas.
+
+
+Mouse holes:
+
+These are tunnel systems in some levels that also function as a zone in which only the mouse may enter. These are darkened to be labeled apart from the walls.
+
+
+Powerups:
+
+There are four types of powerups (the apples) that appear at given times based on the frequency set in the options.
+"High" frequency is one powerup per ten seconds, starting at 1:55, as long as there are no more than four powerups on the field.
+"Low" frequency is one powerup per twenty seconds, starting on 1:45, as long as there are no more than two powerups on the field.
+"Off" stops powerups from appearing.
+Powerups appear at random grass positions on the level and move to another random position after fifteen seconds if not picked up.
+
+Super Speed (1/3): move twice as fast for a duration of six seconds
+Super Stamina (1/3): regain lost stamina very quickly; only depletes while regaining stamina
+Trap (2/9): a mouse trap hidden as a powerup; functions like a normal trap
+Freeze (1/9): the opponent is frozen for three seconds and cannot move
+
+
+
+Single Player:
+
+The mouse is looking for pieces of cheese to return back home. The number of pieces of cheese appears in the topleft of the hud.
+It is not mandatory to obtain all pieces of cheese. One piece of cheese is worth one point upon winning, but losing still counts once.
+
+There is no cat in single player. Lights survey the level, and if the mouse is caught within the light, it loses.
+The number of lights can be adjusted in the options menu under "Single Difficulty."
+"High" creates four lights.
+"Medium" creates one light.
+"Easy" has no lights.
+
+If the mouse makes a sound or takes the cheese, the lights are set on alert, which lasts for five seconds. In this time, they are more aware and faster.
+
+Vision, or memory, can be adjusted in the options menu under "Nightvision Sight."
+This keeps track and shows certain landmarks or all things encountered.
+"High" shows everything.
+"Medium" shows objects and mouse holes.
+"Low" shows nothing.
+
+
+Other:
+
+"Lightning Mode" doubles the speed of all gameplay when turned on.
+"Multi Night Mode" creates a night-time scenario in multiplayer, with adjustable vision by "Nightvision Sight."
+

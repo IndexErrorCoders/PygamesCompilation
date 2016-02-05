@@ -1,0 +1,18 @@
+- equipped: {armleg: normal, body: cloth, head: none, shield: none, weapon: pitch}
+  gear:
+    armleg: [normal]
+    body: [cloth]
+    head: [none]
+    shield: [none]
+    weapon: [pitch]
+  identifiers:
+    desert_south.map: !!set {kill: null}
+  keys: 1
+  money: 35
+  name: BIKER
+  save_world_coords: !!python/tuple [5, 5]
+  start_coord: !!python/tuple [9, 4]
+  start_direction: right
+  world: overworld.wrl
+- EMPTY
+- EMPTY

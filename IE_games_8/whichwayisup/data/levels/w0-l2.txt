@@ -1,0 +1,53 @@
+set brown
+
+tiles
+WWWWWWWSWWWWWWWWWWWW
+W   W W W        WWW
+W   W W W    W     W
+W          W W     W
+WW         W W     W
+W    W     W W     W
+W       W  W     W W
+W               WW W
+W     W        W W W
+WWWWS       SW W   W
+W W               WW
+W         W       WW
+W   W   W          W
+W           W     WW
+W     W           WW
+W              WW  W
+WW W W W W   W    WW
+WWWWWWWWWWW  WW   WW
+W            B     W
+WBWWWWWWWWWWWWWWWWWW
+
+player 18.5 18.55
+key 1.5 18.5
+lever 18.5 9.5 1 TRIGGER_FLIP
+lever 7.5 6.5 1 TRIGGER_FLIP
+lever 1.5 10.5 1 TRIGGER_FLIP
+spider 17.5 11 RIGHT
+spider 17.5 14 RIGHT
+spider 17.5 17 RIGHT
+spider 17.8 2.5 UP
+spider 16.5 1.5 UP
+spider 5.5 1.5 UP
+spider 2.5 1.5 UP
+spider 1.5 15.5 DOWN
+spider 3.5 15.5 DOWN
+spider 5.5 15.5 DOWN
+spider 7.5 15.5 DOWN
+spider 9.5 15.5 DOWN
+
+trigger level_begin 1
+dialogue Huzzah!
+end trigger
+
+trigger key 1
+player orientation LEFT
+dialogue Guess what?
+dialogue Yes, this is only level 3, and we've got more.
+dialogue So just get ready!
+change_level
+end trigger

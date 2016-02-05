@@ -1,0 +1,47 @@
+set green
+
+tiles
+WWWWSS  WWWWWWWWWWWW
+W       W          W
+W      WW   WW S W W
+WWWS  WW  W  W   W S
+W W    W WWW W  WW S
+W W    W  W  WW    W
+W      W      S    W
+W SSSSWWW  WWWWWWW W
+W      W   W    W  W
+W W      WWW    W WW
+W        WWW  WWW  W
+WWWWW  W   WW  WWW W
+  WWWWWWWW WWW   W W
+W   S      WWWW    W
+W   W W   WWWWWW WWW
+S     W     W      W
+S     W W        W W
+S  W  W S  WWWSSWW W
+S          W       B
+WWWWWWWWWWWW WWWWWWW
+
+player 18.5 18.55
+
+lever 12.5 19.5 -1 TRIGGER_FLIP
+lever 18.5 7.5 -1 TRIGGER_FLIP
+lever 7.5 0.5 -1 TRIGGER_FLIP
+lever 0.5 12.5 -1 TRIGGER_FLIP
+power_crystal 14.5 9.5
+blob 13.5 11.65
+spider 1.5 18.5 DOWN
+spider 10.5 1.5 UP
+spider 6.5 4.5 RIGHT
+
+trigger level_begin 1
+dialogue Ok, well, now I'm in trouble.
+dialogue There seems to be no way out!
+player orientation LEFT
+dialogue Of course, I COULD try that lever over there.
+end trigger
+
+trigger power_crystal 1
+dialogue Oh, my precious!
+change_level
+end trigger

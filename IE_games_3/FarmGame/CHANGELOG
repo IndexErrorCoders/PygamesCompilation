@@ -1,0 +1,51 @@
+Version 0.5.1
++ M key to mute/unmute sounds
++ Time when raining is based on perlin noise and game seed
++ Multifarm support
+
+Version 0.5
++ Farm object can be placed on farm
++ Updated grpahics a bit
++ Improved performance
+
+Version 0.4.7
++ Added help window
++ Tooltips in inventory available again
++ Button background updated
++ Performance improved a bit
+
+Version 0.4.6
++ Added radishes
++ Added click sound
+= Updated menu
++ Added rain
++ Added I key to toggle inventory
+
+Version 0.4.4
++ Added planks (randomly generated on new map)
++ Added watercan use limit
++ Added watercan refill button to the market
++ Added multiharvest option for now (beans, tomatos and strawberries)
++ Added selection of count in market (to fast buy and sell)
++ Added Experiance and Level.
++ Seeds require level now.
++ Added Tooltips to market
+
+Version 0.4.2
++ Added item info in market
++ ESC key close market window if opened
++ Added potatos to game
++ Added tomatos to game
++ Added stones (farmobjects) to game
++ Added Pickaxe (used to remove stones from field)
++ Added Axe (used to remove planks from field)
++ New file format for saves (old not work)
++ Added market button on gamescreen (or S key)
++ Added anthills.
++ Added ground drying
+
+Version 0.4
++ Added shovel
++ Market added
++ Added grid on farm field
+

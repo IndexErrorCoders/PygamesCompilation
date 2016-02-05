@@ -1,0 +1,398 @@
+# Wizards Magic
+# Copyright (C) 2011 chubakur@gmail.com
+# This file is distributed under the same license as the WizardsMagic package.
+# 
+# Translators:
+# Андрей Питько <chubakur@gmail.com>, 2011, 2012
+# Андрей Питько <chubakur@gmail.com>, 2012,2014
+msgid ""
+msgstr ""
+"Project-Id-Version: Wizards Magic\n"
+"Report-Msgid-Bugs-To: chubakur@gmail.com\n"
+"POT-Creation-Date: 2011-06-28 21:36+0400\n"
+"PO-Revision-Date: 2014-01-12 11:21+0000\n"
+"Last-Translator: Андрей Питько <chubakur@gmail.com>\n"
+"Language-Team: Russian (http://www.transifex.com/projects/p/wizards-magic/language/ru/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ru\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+msgid ""
+"Causes 200% of damage to fire creatures. Gives owner 1 Water in the beginning of owner's turn. \n"
+"Casting Sea of Sacred increases owner's Water by 1 and reduces Fire by 1."
+msgstr "Наносит 200% повреждения огненным созданиям. Дает владельцу 1 Воду в начале хода.\nЗаклинание \"Священное Море\" увеличивает Воду владельца на 1 и уменьшает Огонь на 1."
+
+msgid ""
+"Attacks both adjacent slots. Reduces owner`s Water by 2 every turn. \n"
+"CAST: Consumes friendly unit, receiving up to 50% of his health."
+msgstr "Атакует оба прилежащих слота. Уменьшает Воду владельца на 2 каждый ход.\nЗаклинание: Уничтожает выбранный дружественный отряд, восстанавливая себе 50% его здоровья."
+
+msgid ""
+"One of the toughest Elementals. Health itself for 3 whenever any player "
+"casts water spell of summons water creature. Attack equal to owner`s Water."
+msgstr "Один из сильнейших Элементалей. Лечит себя на 3 единицы здоровья каждый раз, когда любой игрок использует заклинания Воды или призывает Водных существ. Атака равна Воде владельца."
+
+msgid ""
+"When attacking, each enemy creature suffers 1 damage in addition to standard attack. \n"
+"Casting Curing heals owner for 4. In exchange, owner loses 1 Water. Cannot be cast if owner's Water less than 6."
+msgstr "Когда атакует, каждое вражеское существо получает 1 урон дополнительно к обычной атаке.\nИспользует заклинание Отвержения - лечит владельца на 4. В обмен на это владелец теряет 1 Воду. Не может использовать заклинание, если Вода владельца меньше чем 6."
+
+msgid ""
+"Reduces all damage done to owner by 50%. Suffers 200% damage from fire."
+msgstr "Уменьшает все повреждения, наносимые владельцу на 50%. Получает 200% повреждения от Огня."
+
+msgid ""
+"Every time anyone casts Water spell or summons Water creature, opponent "
+"suffers 4 damage and owner gains 2 health."
+msgstr "Каждый раз, когда кто-нибудь использует заклинание Воды или призывает существо Воды, оппонент получает 4 повреждения и владелец получает 2 очка здоровья."
+
+msgid ""
+"Increases Water by 2 every turn. Suffers 200% damage from fire. All damage from Water equal to 1. \n"
+"CAST: Casting Healing Water heals owner equal to 2*Water points. Owner loses all Water."
+msgstr "Увеличивает Воду на 2 каждый ход. Получает 200% повреждения от Огня. Все повреждения от Воды равны 1.\nЗаклинание: Целебная вода лечит владельца на 2*Вода очков. Владелец теряет всю Воду."
+
+msgid ""
+"Doesn`t suffer from Fire and Earth spells. \n"
+"CAST: Whenever Demon casts Fire Bleed owner loses 1 Earth and receives 2 Fire elements."
+msgstr "Не получает повреждений от заклинаний Огня и Земли.\nЗаклинание:Всякий раз, когда Демон использует заклинание Извержение Огня, владелец теряет 1 Землю и получает 2 Огня."
+
+msgid ""
+"Damage from Water is multiplied by 2. Whenever Devil dies, owner suffers 10 damage. \n"
+"CAST: Sacrificing owner`s Fire creature gives 3 Fire to the owner, also healing owner by this amount."
+msgstr "Повреждение от Воды умножается на 2. Когда Дьявол умирает, владелец получает 10 урона.\nЗаклинание: Приносит в жертву огненное создание владельца, дает 3 Огня владельцу и лечит его на такое количество здоровья, сколько было у карты, принесенной в жертву."
+
+msgid ""
+"When summoned, each enemy creature and enemy player suffers 3 damage. Red "
+"Drake Suffers no damage from Fire spells and creatures."
+msgstr "Когда призывается, каждое существо врага и вражеский игрок получают 3 повреждения. Краcный Дракон не получает повреждения от существ и заклинаний стихии Огня."
+
+msgid ""
+"Opens fire gates. This means that both players should receive 1 additional "
+"Fire every turn. Upon dying, Firelord brings 8 damage to each player."
+msgstr "Открывает огненные врата. Это значит, что каждый игрок будет получать 1 Огонь дополнительно при каждом ходе. Умирая, Повелитель Огня наносит 8 урона каждому игроку."
+
+msgid ""
+"Increases attack of all owner's creatures by 2. Increases damage from owner "
+"player's spellcastings by 2."
+msgstr "Увеличивает атаку всех существ хозяина на 2. Увеличивает повреждения от заклинаний игрока на 2."
+
+msgid ""
+"Whenever any creature attacks Efreet, that creature suffers half of damage send back (same applies to Fire Shield spell). Uppon summoning, all enemy Water creatures suffer 6 damage. \n"
+"CAST: Casts Fire Shield on any owner`s creature. Costs 2 Fire. Fire Shield burns creature from inside, damaging it for 2 points per turn, unless it`s a Fire creature."
+msgstr "Каждый раз любое существо, атакуя Ифрита, получает половину урона, нанесенного Ифриту (то же самое касается заклинания Огненный щит). Когда Ифрита призывают, все вражеские карты Воды получают 6 урона.\nЗаклинания: Накладывает Огненный Щит на любое существо владельца. Стоит 2 Огня. Огненный Щит сжигает существо изнутри, нанося ему 2 урона за ход, если это не существо Огня."
+
+msgid ""
+"Fire Elemental. Immune to harmful Fire spells. When summoned, enemy player loses 3 Fire, and opposed Elemental unit suffers 9 damage. Attack equal to owner`s Fire + 3. \n"
+"CAST: Casts Volcano Explode. Vulcan dies, but every unit on field suffers damage equal to 50% of Vulcan`s health."
+msgstr "Огненный элементаль. Имеет иммунитет к вредным заклинаниям Огня. Когда призывается, каждый игрок теряет 3 Огня, а существо, находящееся напротив элементаля получает 9 урона. Атака равна Огонь+3.\nЗаклинание: Взрыв Вулкана. Вулкан умирает, но каждое существо на поле получает урон, равный 50% очков жизни Вулкана."
+
+msgid "Attacks adjacent enemy units at a half of it`s strength."
+msgstr "Атакует врагов в прилежащих слотах в половину их силы."
+
+msgid "Owner receives 1 Air at the beginning of Owners turn."
+msgstr "Владелец получает 1 Воздух в начале хода."
+
+msgid ""
+"Increases its attack by 1 for each creature, killed on a field. \n"
+"CAST: Enslave Mind forces strongest enemy creature to attack it`s owner. Costs 1 Air."
+msgstr "Увеличивает свою атаку на 1 за каждое существо, убитое на поле.\nЗаклинание: Порабощение Разума заставляет сильнейшую карту врага атаковать её владельца. Стоит 1 Элемент Воздуха."
+
+msgid ""
+"If Phoenix was killed by Fire spell or creature, rebirth with full health."
+msgstr "Если Феникс был убит огненным существом или заклинанием, он перерождается с полным здоровьем."
+
+msgid ""
+"Owner receives 1 air element for each enemy creature, killed by Zeus. \n"
+"CAST: Strikes Lighting into choosen creature. Costs 1 Air and inflicts 8 damage. Cannot strike creatures of level 7 and highter."
+msgstr "Владелец получает 1 Воздух за каждое существо, убитое Зевсом.\nЗаклинание: Световой удар по выбранному существу. Стоит 1 Воздух и наносит 8 урона. Не может ударить существа уровня 7 и выше."
+
+msgid ""
+"Suffers no damage from Earth and Air spells. \n"
+"CAST: Casts Petrification on self, as effect turns to stone. In stone form Gargoyle reduces damage done to it by 2 . Owner loses 3 Air and 1 Earth."
+msgstr "Не получает повреждений от заклинаний Земли и Воздуха.\nЗаклинание: Накладывает Оцепенение на себя, превращаясь в камень. Горгулья, находящаяся в форме камня, уменьшает сделанный ей урон на 2. Владелец теряет 3 Воздуха и 1 Землю."
+
+msgid ""
+"Attacks casters with additional 3 damage. Only suffers 50% damage from spells. \n"
+"CAST: Casts Memory Loss. Target enemy creature permanently loses ability to cast. Costs 2 Air."
+msgstr "Наносит дополнительный урон 3 использующему заклинание. Получает только 50% урона от заклинаний. \nЗаклинание: Стирание Памяти. Атакуемое существо противника навсегда теряет способность использовать заклинания. Стоимость 2 Воздуха."
+
+msgid ""
+"When summoned, enemy loses 3 Air. Titan`s attack is increased by 1 for each Air creature in play. \n"
+"CAST: Casts Thunder Fist. All enemy Earth creatures suffer 3 damage. Owner loses 1 Air."
+msgstr "Когда призывается, враг теряет 3 Воздуха. Атака Титана увеличивается на 1 за каждое существо стихии Воздух на поле. \nЗаклинание: Кулак Грома. Все существа противника, принадлежащие к стихии Земля, получают 3 урона. Стоимость 1 Воздух."
+
+msgid ""
+"Increases Earth by 1 every turn. \n"
+"CAST: Once Satyr casts Dissolve, it dies and creature in the opposed slot suffers 5 damage. If there`s no creature, damage dealt to enemy player."
+msgstr "Увеличивает ману Земли на 1 каждый ход.\nЗаклинание: Единожды Сатир может использовать Растворитель, он умирает и существо в противоположном слоте получает 5 очков повреждения. Если там нет существа, то урон наносится вражескому игроку."
+
+msgid ""
+"Regenerates 3 health every turn. While owner's Earth less than 3, it suffers"
+" 3 damage instead."
+msgstr "Восстанавливает 3 здоровья каждый ход. Пока  Земля владельца меньше чем 3, карта получает 3 урона."
+
+msgid ""
+"Adjacent owner creatures attack increases by 1, and if it`s Earth creature, "
+"by 2 whenever anyone casts Earth spell of summons Earth creature."
+msgstr "Атака существ владельца, находящихся в прилежащих слотах, увеличивается на 1, и, если это существо стихии Земля, увеличивается на 2 каждый раз, когда кто-то использует заклинания стихии Земля или призывает существо стихии Земля."
+
+msgid ""
+"Damage from all non-magical attacks and abilities equal to 1. \n"
+"CAST: Casts Youth of Forest, increasing owner player`s health by 5. Costs two Earth elements."
+msgstr "Урон от всех немагических атак и способностей равен 1. \nЗаклинание: Молодильный Лес увеличивает здоровье владельца на 5. Стоимость 2 Земли."
+
+msgid ""
+"Attacks the same turn he was summoned(No summon sickness). \n"
+"CAST: Strikes magic arrow into enemy player, dealing 3 damage. Costs 1 Earth."
+msgstr "Атакует в тот же ход, когда его призвали.\nЗаклинание: Кентавр метает магическую стрелу во вражеского игрока, нанося ему 3 урона. Стоит владельцу 1 Земли."
+
+msgid ""
+"Attack equal to owner`s Earth. Increases Earth by 2 every turn. Fire spells deal additional 10 damage. \n"
+"CAST: Casts Stone Skin onto owner`s creature. That creature gain 1 point of defence from all attacks greater than 1."
+msgstr "Атака равна количеству маны Земли владельца. Увеличивает Землю на 2 каждый ход. Заклинания Огня наносят 10 урона дополнительно.\nЗаклинание: Наносит заклинание Каменная Кожа на существо владельца. Это существо получает дополнительно 1 очко защиты от всех атак, больших 1."
+
+msgid ""
+"Attacks opposed unit and enemy player at the same time. \n"
+"Casts Entangle Roots, damaging each enemy unit for 1 and losing 2 points of own health."
+msgstr "Атакует противолежащее существо и вражеского игрока в одно и то же время.\nИспользует Запутывающие Корни, нанося каждому вражескому существу 1 урон и теряя 2 свои жизни."
+
+msgid ""
+"When attacks, poisons her target. This target will lose 2 health every turn."
+" In the beginning og owner`s turn, Echidna hits all poisoned creatures for "
+"1."
+msgstr "Когда атакует, отравляет свою жертву. Эти жертвы будут терять 2 здоровья каждый ход. В начале хода владельца, Ехидна атакует всех отравленных существ, нанося им урон 1."
+
+msgid ""
+"Increases owner`s Life by 2 every turn, decreasing Death by the same amount."
+" Decreases owner`s Life by 3 every time owner casts Death spells."
+msgstr "Увеличивает ману Жизни владельца на 2 каждый ход, уменьшая Смерть на то же значение. Уменьшает ману Жизни владельца на 3 каждый раз, когда владелец использует заклинания Смерти."
+
+msgid ""
+"Brings 300% of damage to undead creatures. \n"
+"CAST: Casts Exorcism. Destroys any undead, but suffers 10 damage himself. Owner also loses 2 Life as a cost of this holy casting."
+msgstr "Наносит 300% повреждения нежити.\nЗаклинание: Изгнание нечнстой силы. Уничтожает любую карту нежити, но наносит 10 урона себе. Также владелец теряет 2 Маны Жизни, как стоимость священного заклинания."
+
+msgid ""
+"When summoned, each owner`s creature is healed for 3. Also, it destroys harmful spell effects from each of them. \n"
+"CAST: Holy Strike deals 5 damage to a target creature. If it is undead creature, Pegasus also suffer 3 damage homself. Costs 2 Life."
+msgstr "Когда вызывается, каждое существо владельца получает 3 здоровья. Также, уничтожаются все вредные эффекты у каждого существа владельца. \nЗаклинание: Святой Удар наносит 5 повреждений выбранному существу. Если это существо Смерти, то Пегас    сам получает 3 урона. Стоимость 2 Жизни."
+
+msgid ""
+"Unicorn reduces damage from spells to owner's creatures by 50%. Cures poison from owner's creatures. \n"
+"Casts Unicorn Aura. This Aura destroys useful spell effects from enemy creatures. Costs 2 Life."
+msgstr "Единорог уменьшает урон от заклинаний, наложенных на существ владельца на 50%. Лечит Яд у существ владельца. \nЗаклинание Аура Единорога. Эта Аура разрушает полезные эффекты у существ противника. Стоимость 2 Жизни."
+
+msgid ""
+"Steals 2 owner's Life and gives owner 1 Death in the beginning of owner's turn. \n"
+"Serves Death. Once cast, Apostate permanently turns into a Banshee. Banshee restores only 1/2 of normal health."
+msgstr "Меняет 2 Жизни владельца на 1 Смерть в начале хода владельца. \nСлужение Смерти. После заклинания Апостат навсегда превращается в Банши. Банши имеет только половину от нормального здоровья. "
+
+msgid ""
+"Whenever owner player loses health, Magic Healer health player by this "
+"amount, losing hit points equally."
+msgstr "Магический Целитель принимаетна себя удары, нанесенные игроку-владельцу."
+
+msgid ""
+"When Chimera is on a field, every spell casting costs 50% less for the "
+"owner. Whenever you summon creature, you gain health equal to this "
+"creature's level."
+msgstr "Когда Химера на поле, каждое заклинание стоит на 50% меньше для владельца. Каждый раз когда вы призываете существо, вы получаете столько жизней, каков уровень данного существа."
+
+msgid ""
+"Eats enemies corpses - every time if kills enemy creature, totally health "
+"and his health increases by 3."
+msgstr "Ест трупы врагов - каждый раз, убивая вражеское существо, полностью лечится и увеличивает максимальное количество жизней на 3."
+
+msgid ""
+"Whenever attacked by a creature, suffers 50% less damage, and owner suffers other 50% damage. When suffers from spell, Ghost recieves 200% of normal damage. \n"
+"Casts Bloody Ritual. As a result, owner loses 5 health, but receives one Death."
+msgstr "Всякий раз, когда подвергается нападению существа, Призрак получает половину урона, а остальную половину получает владелец Призрака. Когда страдает от заклинаний, Призрак получает 200% урона. \nЗаклинание: Кровавый Ритуал. Владелец теряет 5 Здоровья, но получает 1 Смерть."
+
+msgid ""
+"When attacks living creature, restores health equal to 50% of damage dealt. "
+"Maximum 30 health."
+msgstr "Когда атакует живое существо, восстанавливает здоровье в размере 50% от нанесенного урона. Максимум 30 здоровья."
+
+msgid ""
+"When dies, becomes a ghost. \n"
+"CAST: Casts Blood Rage on self. Strikes twice as hard this turn, but owner loses 3 Death points on casting."
+msgstr "Когда умирает, становится призраком.\nЗаклинание: Накладывает Кровавую Ярость на себя. Атакует с двойной силой в этой ход, но владелец теряет 3 Маны Смерти за использование этого заклинания."
+
+msgid ""
+"When summoned, deals 8 damage to enemy. Once it attacks enemy player, dies "
+"and enemy player suffers 10 points of extra damage. If Banshee dies from "
+"other creature or spell, enemy player doesn't suffer."
+msgstr "Когда призывается, наносит 8 урона врагу. Как только он атакует вражеского игрока, Банши умирает, а вражеский игрок получает дополнительно 10 очков повреждения. Если Банши умирает от другого создания или заклинания, вражеский игрок не страдает."
+
+msgid ""
+"Whenever creature dies, increases owner`s Death by one. \n"
+"CAST: Consumes target enemy creature of level 3 or less. Owner player loses 3 Death elements."
+msgstr "Каждый раз, когда какое-либо существо умирает, увеличивает Смерть владельца на 1. \nЗаклинание: Уничтожает выбранное существо владельца уровня 3 или ниже. Владелец теряет 3 Смерти."
+
+msgid ""
+"Whenever creature dies, Darklord heals owner for 3 and regenerates self for 2. \n"
+"Steal Spell steals all spell effects from any enemy creature, DarkLord receives these spells. Owner loses 1 Death."
+msgstr "Всякий раз, когда какое существо умирает, Темный Властелин лечит владельца на 3 и восстанавливает себя на 2 очка здоровья. \nЗаклинание: Воровство заклинаний крадет все эффекты заклинаний у любого вражеского существа существо, Темный Властелин получает эти эффеты. Владелец теряет 1 Смерть."
+
+msgid ""
+"When summoned,deals 10 damage to creature in the opposite slot and two adjacent slots. Attacks Life units with additionial 5 damage. \n"
+"CAST:Casts Death Bolt, hitting enemy player with 7 of damage. Owner loses 5 Death. If owner`s Death becomes zero, he suffers 10 damage himself."
+msgstr "Когда призывается, наносит 10 повреждений существу в противоположном слоте и двум соседним с ним. Атакует существ Жизни с дополнительным уроном 5. \nЗаклинание: Стрела Смерти ударяет вражеского игрока с уроном 7. Владелец теряет 5 Смерти. Если Смерть владельца станет 0, он получит 10 урона."
+
+msgid ""
+"Poisons all enemy units so that they lose health every turn, also hits them "
+"with 1 damage. Posion doesn`t affect undead."
+msgstr "Отравляет все вражеские карты так, что они будут терять здоровье каждый ход. Также наносит им 1 повреждение. Яд не действует на нежить."
+
+msgid "Every enemy creature suffers damage equal to its attack -1"
+msgstr "Каждое существо противника получает повреждение, равное его атаке - 1."
+
+msgid ""
+"Paralyzes enemy player and creatures for one turn, so they skip one turn."
+msgstr "Парализует вражеских игрока и существ на один ход. "
+
+msgid ""
+"Each creature suffers up to 16 points of damage. If a player has Poseidon on"
+" a field, his creatures left unaffected. Amazingly poisonous magic storm, "
+"has no mercy to both friends and foes."
+msgstr "Каждое существо получает 16 урона. Если игрок имеет Посейдона на поле, его существа не подвергаются воздействию заклинания. Ядовитый шторм не имеет жалости ни к врагам, ни к союзникам."
+
+msgid ""
+"Inflicts 10 + Water/2 damage to enemy player. Caster suffers 6 damage as a "
+"side effect. Large bolt of Ice, fired at a great speed. Superior efficiency"
+msgstr "Наносит урона в половину меньше, чем Воды у владельца плюс еще 10 урона вражескому игроку. Заклинатель получает 6 повреждения как побочный эффект. Большая ледяная стрела выпускается с огромной скоростью. Очень эффективно."
+
+msgid ""
+"All units on a field suffer 25 damage. Each player suffers 25 damage. The "
+"ultimate spell of the game. The strongest and most harmful. Beware, it's far"
+" too powerful!"
+msgstr "Все существа на поле получают 25 урона. Каждый игрок получает 25 урона. Завершающее заклинание в игре. Наиболее сильное и вредное. Осторожно, это слишком мощно!"
+
+msgid ""
+"Each enemy creature suffers damage equal to owner's Fire + 3. As easy as it "
+"is - a ball of burning fire."
+msgstr "Каждое существо врага получает повреждение, равное Огню игрока, сыгравшего это заклинание, + 3. "
+
+msgid ""
+"Deals 3 damage to each enemy creature. Cheap and still good. Pure Fire."
+msgstr "Наносит 3 урона каждому вражескому существу. Дешево и сердито. Чистый огонь."
+
+msgid ""
+"If enemy has less Fire than owner does, enemy suffers damage, equal to this "
+"difference, multiplied by 2. Otherwise enemy suffers 1 damage. Now this is a"
+" smart one - a magic arrow made of pure Fire, never misses your foe."
+msgstr "Если враг имеет меньше Огня чем владелец, враг получит урон, равный этой разнице, умноженной на 2. Иначе враг получает 1 урон. Магическая стрела сделанная из огня никогда не пропустит своего врага."
+
+msgid ""
+"Destroys all spell effects from all creatures, both owner's and enemy's. "
+"Heals all Fire creatures for 3."
+msgstr "Уничтожает все действия заклинаний у всех существ, как владельца и противника. Лечит все огненные существа на 3."
+
+msgid ""
+"Winds away strongest enemy creature. Perfect against high-level enemy "
+"creatures. One of the most useful spells."
+msgstr "Уносит сильнейшее существо врага с поля. Отлично подходит для борьбы с высокоуровневыми вражескими существами. Одно из самых полезных заклинаний."
+
+msgid ""
+"First enemy creature suffers damage equal to owner's Air+2. Lightning "
+"travels forth and hits each enemy creature, losing 2 damage each time it "
+"hits. For example, if owner has 10 Air and enemy has all 5 creatures, they "
+"suffer this damage (left to right): 12-10-8-6-4"
+msgstr "Первое вражеское существо получит урон равный Воздуху владельца +2. Молния проходит вперед и наносит урон каждому вражескому существу, теряя по 2 урона за каждый удар. Например, если владелец имеет 10 воздуха и враг имеет 5 существ, то урон распределится так ( слева направо ): 12-10-8-6-4"
+
+msgid ""
+"Every creature on a field plagued - loses all hit points except one. Ignores"
+" all defences and modifiers. None shall escape the Plague! Great lands burnt"
+" to dust where the plague passed."
+msgstr "Каждое существо на поле заражается чумой - теряет все жизни кроме одной. Игнорирует всю защиту и модификаторы. Никто не избежит чумы! Великие земли сгорали в пыль когда приходила чума."
+
+msgid ""
+"Owner's creatures become permanently immune to all damaging spells, spell "
+"effects, and poison. Remember that your creatures can no longer be affected "
+"by Bless, Restructure and other good spell effects."
+msgstr "Существа владельца становятся временно защищенными от всех повреждающих заклинаний, различных эффектов и ядов. Помни что твои существа не будут больше получать хорошие эффекты тоже!"
+
+msgid ""
+"Owner's creatures gain protection from all attacks. This defence only lasts "
+"one turn and lasts till next owner's turn. It's just like an unpenetrable "
+"wall has suddenly appeared. Anyone under your command will survive anything!"
+msgstr "Существа владельца получают защиту от всех атак. Эта защита действует только один ход и заканчивается на следующем ходу владельца. Это как непроницаемая стена. Любой под вашим командованием переживет любые испытания!"
+
+msgid ""
+"Hits each creature for 15 damage. Doesn't affect owner's creatures, if "
+"onwer's Earth > 12. Even the earth itself is a powerful weapon."
+msgstr "Наносит каждому существу 15 урона. Не действует на существа владельца, если его Земля > 12. Даже земля сама по себе является мощным оружием."
+
+msgid ""
+"Kills all enemy creatures of level less than 5. Only the skilled one can "
+"survive the swamp's most dangerous weapon."
+msgstr "Убивает все вражеские создания с уровнем меньше 5. Только самые опытные могут выжить в болоте - самом опасном оружии."
+
+msgid ""
+"All onwer's creatures gain +3 health to their maximum, healing for 6 in the "
+"same time. Scatter to pieces, connect once again. Now you are stronger, none"
+" shall remain!"
+msgstr "Все существа владельца получают +3 здоровья к их максимальному количеству и лечатся на 6. Разберите на кусочки, а теперь соедините снова. Теперь вы сильней, никто не продержится!"
+
+msgid ""
+"Heals all friendly creatures for 4. Gives owner 2 health for each of his "
+"creatures on a field. Heal me! Heal me!"
+msgstr "Лечит всех дружественных существ на 4. Дает владельцу 2 единицы здоровья за каждое его существо на поле. "
+
+msgid ""
+"All owner's creatures Blessed: receive +1 to attack, restore 1 point of "
+"health every time they are hit. Undead creatures cannot be blessed and "
+"suffer 10 damage instead. Your army's now under God's protection, and your "
+"enemy is doomed forever!"
+msgstr "Все существа владельца благословляются: получают +1 к атаке, восстанавливают 1 здоровье каждый раз когда бьют. Нежить не может быть благословлена и вместо этого получает 10 урона. Твоя армия сейчас под защитой Бога, и ваш враг обречен навсегда!"
+
+msgid ""
+"All undead on a field are destroyed. Owner receives 3 Life and 1 health for "
+"each destroyed creature. The great day of The Lord is near and coming "
+"quickly. That day will be a day of Wrath, a day of distress and anguish."
+msgstr "Вся нежить на поле умирает. Владелец получает 3 Жизни и 1 здоровье за каждое уничтоженное существо. Великий день Господа близок и придет быстро. Это будет день гнева, день скорби и тоски."
+
+msgid ""
+"Owner loses health equal to his Life. Enemy suffers damage, double of this "
+"amount. Sacrificing is the true loving act."
+msgstr "Владелец теряет здоровье равное его Жизни. Враг получает урон, равный удвоенной Жизни кастующего. Жертвоприношение - это настоящий любовный акт."
+
+msgid ""
+"If owner has Life creatures in play, heals owner for 5 and steals 4 health "
+"from each enemy creature, giving them to opposed owner's creature. Only pure"
+" souls can use God's blessings."
+msgstr "Если у владельца есть существа Жизни в игре, лечит владельца на 5 и отнимает 4 здоровья у каждого вражеского существа, отдавая эти жизни существам владельца, находящимся в противоположных слотах. Только чистые души могут использовать благословенье Божье."
+
+msgid ""
+"Heals owner equal to his Life*3. Owner loses all Life elements. Blessed "
+"creatures heal for 3. Now you live again, mortal. Life is the most precious,"
+" be careful next time!"
+msgstr "Увеличивает здоровье владельца на количество, равное его очкам Жизни*3. Владелец теряет все очки Жизни. Blessed ? создания лечатся на 3. Теперь ты жив снова, смертный. Жизнь это прекрасно, будь внимательнее в следующий раз."
+
+msgid ""
+"Banishes each creature into hell. Each banished creature gives caster 1 "
+"Death. Whenever one unfolds Chaos, no mortal can stand its fearful ugly "
+"nature."
+msgstr "Отправляет каждое существо в ад. Каждое изгнанное существо дает кастующему 1 Смерть. Всякий раз, когда разворачивается хаос, ни один смертный не может устоять перед её уродливой натурой."
+
+msgid ""
+"All living creatures suffer 13 damage. All undead creatures heal for 5. The "
+"Lord of Chaos most useful tool. Your army of darkness shall reign forever."
+msgstr "Все живые создания получают по 13 урона. Вся нежить лечится на 5. Это наиболее полезное оружие Лорда Хаоса."
+
+msgid ""
+"Reduces all enemy elements by 1. Curse and Doom are now your enemy's only "
+"guests."
+msgstr "Уменьшает всю ману врага на 1. Проклятие и гибель теперь гость вашего противника."
+
+msgid ""
+"If owner's Death less than 8, steals 5 health from enemy player. Otherwise "
+"steals Death + 5. Death's cold vampiric touch. So painful and surreal.."
+msgstr "Если Смерти у владельца меньше 8, ворует 5 здоровья у вражеского игрока. Иначе ворует Смерть + 5 здоровья. Холодное прикосновение вампира Смерти. Так больно и нереально."
+
+msgid ""
+"Every enemy creature suffers effect of Weakness: its attack decreased by 50%"
+" (rounded down). Make the strongest the weakest, and then assasinate him."
+msgstr "Каждое вражеское существо получает эффект слабости: их атака уменьшена на 50% (округление вниз). Сделай сильнее слабость и расправься с ними."

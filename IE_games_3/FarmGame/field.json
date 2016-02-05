@@ -1,0 +1,264 @@
+{
+  "itemscounter": {
+    "3": 2
+  }, 
+  "fields": [
+    {
+      "tiles": [
+        {
+          "water": 0.0, 
+          "px": 5, 
+          "py": 2, 
+          "object": {
+            "type": "", 
+            "id": 9
+          }
+        }, 
+        {
+          "water": 0.0, 
+          "px": 5, 
+          "py": 9, 
+          "object": {
+            "type": "", 
+            "id": 9
+          }
+        }, 
+        {
+          "water": 0.0, 
+          "px": 3, 
+          "py": 0, 
+          "object": {
+            "type": "", 
+            "id": 9
+          }
+        }, 
+        {
+          "water": 0.0, 
+          "px": 3, 
+          "py": 9, 
+          "object": {
+            "type": "", 
+            "id": 9
+          }
+        }, 
+        {
+          "water": 0.0, 
+          "px": 11, 
+          "py": 2, 
+          "object": {
+            "type": "", 
+            "id": 6
+          }
+        }, 
+        {
+          "water": 0.0, 
+          "px": 9, 
+          "py": 8, 
+          "object": {
+            "type": "", 
+            "id": 6
+          }
+        }, 
+        {
+          "water": 0.0, 
+          "px": 8, 
+          "py": 0, 
+          "object": {
+            "type": "", 
+            "id": 9
+          }
+        }, 
+        {
+          "water": 0.0, 
+          "px": 3, 
+          "py": 10, 
+          "object": {
+            "type": "", 
+            "id": 6
+          }
+        }, 
+        {
+          "water": 0.0, 
+          "px": 0, 
+          "py": 7, 
+          "object": {
+            "type": "", 
+            "id": 6
+          }
+        }, 
+        {
+          "water": 0.0, 
+          "px": 0, 
+          "py": 6, 
+          "object": {
+            "type": "", 
+            "id": 6
+          }
+        }, 
+        {
+          "water": 0.0, 
+          "px": 0, 
+          "py": 4, 
+          "object": {
+            "type": "", 
+            "id": 9
+          }
+        }, 
+        {
+          "water": 0.0, 
+          "px": 4, 
+          "py": 6, 
+          "object": {
+            "type": "", 
+            "id": 9
+          }
+        }, 
+        {
+          "water": 0.0, 
+          "px": 4, 
+          "py": 4, 
+          "object": {
+            "type": "", 
+            "id": 9
+          }
+        }, 
+        {
+          "water": 0.0, 
+          "px": 4, 
+          "py": 2, 
+          "object": {
+            "type": "", 
+            "id": 6
+          }
+        }, 
+        {
+          "water": 0.0, 
+          "px": 10, 
+          "py": 1, 
+          "object": {
+            "type": "", 
+            "id": 6
+          }
+        }, 
+        {
+          "water": 0.0, 
+          "px": 6, 
+          "py": 11, 
+          "object": {
+            "type": "", 
+            "id": 6
+          }
+        }, 
+        {
+          "water": 0.0, 
+          "px": 6, 
+          "py": 9, 
+          "object": {
+            "type": "", 
+            "id": 6
+          }
+        }, 
+        {
+          "water": 0.0, 
+          "px": 2, 
+          "py": 3, 
+          "object": {
+            "type": "", 
+            "id": 9
+          }
+        }, 
+        {
+          "water": 0.0, 
+          "px": 2, 
+          "py": 5, 
+          "object": {
+            "type": "", 
+            "id": 9
+          }
+        }, 
+        {
+          "water": 0.0, 
+          "px": 4, 
+          "py": 11, 
+          "object": {
+            "type": "", 
+            "id": 6
+          }
+        }, 
+        {
+          "water": 0.0, 
+          "px": 5, 
+          "py": 10, 
+          "object": {
+            "type": "", 
+            "id": 6
+          }
+        }, 
+        {
+          "water": 0.0, 
+          "px": 9, 
+          "py": 11, 
+          "object": {
+            "type": "", 
+            "id": 9
+          }
+        }, 
+        {
+          "water": 0.0, 
+          "px": 11, 
+          "py": 11, 
+          "object": {
+            "type": "", 
+            "id": 9
+          }
+        }, 
+        {
+          "water": 0.0, 
+          "px": 10, 
+          "py": 2, 
+          "object": {
+            "type": "", 
+            "id": 9
+          }
+        }, 
+        {
+          "water": 0.0, 
+          "px": 7, 
+          "py": 10, 
+          "object": {
+            "type": "", 
+            "id": 6
+          }
+        }, 
+        {
+          "water": 0.0, 
+          "px": 9, 
+          "py": 0, 
+          "object": {
+            "type": "", 
+            "id": 9
+          }
+        }, 
+        {
+          "water": 0.0, 
+          "px": 9, 
+          "py": 6, 
+          "object": {
+            "type": "", 
+            "id": 9
+          }
+        }
+      ]
+    }
+  ], 
+  "level": 1, 
+  "money": 0, 
+  "nextlvlexp": 100.0, 
+  "watercanuses": 100, 
+  "inventory": [
+    3
+  ], 
+  "exp": 0.0, 
+  "gametime": 1454542571, 
+  "gameseed": 1454542526
+}

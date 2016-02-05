@@ -1,0 +1,53 @@
+set green
+
+tiles
+    WWWWWSSWWWWWWWWW
+ WW WW     W   W   W
+  W W      W   W   W
+W W   WWWW S W   W W
+  W  WSSSS   W   W W
+  WWWW    WWWWWWWW W
+       W        W  W
+ WW WWWW WWWW S W  S
+       W W    S    S
+  WW   W   W  S W  S
+  W  WWWW   WWW W  W
+      W   W W      W
+ WWS  WWWWW W     WW
+       S    WWWWWWWW
+   WWWWWWW SW      W
+WW W   W S  W W WW W
+W    W   WS W      W
+W    S  W     W SS W
+WW   S          WW W
+WWWWWWWWWWSSSWWWWWWW
+
+player 7.5 11.55
+lever 9.5 9.5 2 TRIGGER_FLIP
+lever 9.5 10.5 2 TRIGGER_FLIP
+lever 10.5 9.5 2 TRIGGER_FLIP
+lever 10.5 10.5 3 TRIGGER_FLIP
+
+lever 8.5 15.5 1 TRIGGER_FLIP
+lever 10.5 1.5 1 TRIGGER_FLIP
+lever 3.5 10.5 1 TRIGGER_FLIP
+power_crystal 18.5 18.5
+blob 18.5 11.65
+blob 16.5 3.5
+blob 12.5 3.5
+spider 0.5 5.5 LEFT
+spider 1.5 17 LEFT
+spider 6.5 9 RIGHT
+
+trigger level_begin 1
+dialogue Hey, this just can't be!
+dialogue What is it with all these levers?
+dialogue Does the designer seriously expect me to suddenly solve puzzles?
+dialogue Like I'm some sort of a puzzle-solver man? Is that it?
+dialogue Geez... might as well just suck it up and take the painful route.
+end trigger
+
+trigger power_crystal 1
+dialogue And it's three out of seven, babe!
+change_level
+end trigger

@@ -1,0 +1,44 @@
+set green
+
+tiles
+WWWWWWW WWWWWWWWWWWW
+W       W    W  W  .
+W     WWWW        W.
+WW                W.
+WW       S   S W  W.
+W            S    S.
+W  WW  W   S WWWW S.
+    S        W    S.
+WW  S WSS         W.
+W     W         W W.
+WWWWWWWSS         W.
+W        W WWSS SSW.
+W      W   W       .
+W    W       WW  W .
+W  W         W W W W
+WW          WW     W
+W            W  WWWW
+W         W  W     W
+W            W  W  W
+WWWWWWWWWWWWWWSSWWWW
+
+player 18.5 18.55
+blob 16.5 15.65
+blob 15.5 13.65
+lever 11.5 18.5 -1 TRIGGER_FLIP
+lever 7.5 9.5 -1 TRIGGER_FLIP
+lever 16.5 8.5 -1 TRIGGER_FLIP
+spider 9.5 18.5 DOWN
+spider 15.5 5.5 DOWN
+spider 10.5 2 LEFT
+lever 7.5 1.5 -1 TRIGGER_FLIP
+spider 1.5 1.5 LEFT
+spider 2.5 3.5 LEFT
+power_crystal 1.5 9.5
+blob 3.35 7.5
+
+trigger power_crystal 1
+dialogue And it's the final one! Hurrah!
+dialogue ...or whatever.
+change_level
+end trigger

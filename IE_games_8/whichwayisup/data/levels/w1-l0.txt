@@ -1,0 +1,51 @@
+set green
+
+tiles
+WWSSSSS  WWW........
+WS        W        .
+W         W        .
+W   W              .
+W           S      .
+WW          W   W  .
+W           S      S
+W    W           WWW
+W                  S
+WW            WW   .
+W                  .
+W                  W
+W                  W
+S  W       W      WW
+S                  W
+S        W         W
+S        W         W
+S   W    WWW       W
+S   W         WW   W
+S   WWWWSSSSSSWWSSWW
+
+player 18.5 18.55
+blob 15.5 17.65
+blob 11.5 16.65
+spider 18.5 12 RIGHT
+lever 15 8.5 1 TRIGGER_FLIP
+blob 8.5 2.5
+lever 8.5 1.5 1 TRIGGER_FLIP
+blob 1.6 6.5
+lever 1.5 10.5 1 TRIGGER_FLIP
+blob 1.6 10.5
+blob 4.5 13.5
+power_crystal 5.5 18.5
+
+trigger level_begin 1
+player orientation LEFT
+dialogue Well well, I found the seven keys and got the exit.
+dialogue But it seems like that's not enough.
+dialogue Now I'll probably have to find the seven power crystals too...
+dialogue ...or something equally inane.
+dialogue Looks like I have new friends too, better be careful.
+end trigger
+
+trigger power_crystal 1
+dialogue Whee! I got the power crystal!
+dialogue Who could have guessed?
+change_level
+end trigger

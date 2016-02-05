@@ -1,0 +1,6 @@
+include graphics/*.*
+include sound/*.*
+include music/*.*
+include fonts/*.*
+include *.py
+include *.txt

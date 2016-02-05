@@ -1,0 +1,25 @@
+Metadata-Version: 1.0
+Name: aranara
+Version: 0.2.3
+Summary: The banished returns
+Home-page: http://pyweek.org/e/aranara
+Author: Paul Paterson
+Author-email: ppaterson@gmail.com
+License: short_licence
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: End Users/Desktop
+Classifier: Intended Audience :: Information Technology
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.5
+Classifier: Programming Language :: Python :: 2.6
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.0
+Classifier: Programming Language :: Python :: 3.1
+Classifier: Programming Language :: Python :: 3.2
+Classifier: Topic :: Software Development :: Libraries :: pyglet
+Classifier: Topic :: Games/Entertainment :: Puzzle

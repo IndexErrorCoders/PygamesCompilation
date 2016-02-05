@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+
+<generator>
+  <width editable="False">21</width>
+  <height editable="False">21</height>
+  <worldClass>StringWorld</worldClass>
+  <builders>
+    <builder active="True" name="Bomber procedural" module="game.levelbuilder" class="BomberProcedural">
+        <width editable="True" page="Main">19</width>
+        <height editable="True" page="Main">19</height>
+        <symmetry editable="True"
+                  description="Symmetry for board ew, ns, or ns-ew"
+                  page="Main"
+                >ns-ew</symmetry>
+        <blocksBetweenEnemies editable="True"
+                                     description="How many blocks to place between start points"
+                                     page="Main"
+                >4</blocksBetweenEnemies>
+        <destructibleBlocks editable="True"
+                            description="Number of destructible blocks"
+                            page="Main"
+                            >10</destructibleBlocks>
+        <makeLike editable="True"
+                  description="True to constrain to maze like structure"
+                  page="Main"
+                  >True</makeLike>
+        <keepClearDistance editable="True"
+                           description="Distance around start to keep clear"
+                           page="Main"
+                >3</keepClearDistance>
+    </builder>
+  </builders>
+  <renderers>
+    <renderer name="main" module="terrain.renderers.main" class="StringRenderer">
+        <cellWidth>16</cellWidth>
+        <cellHeight>16</cellHeight>
+        <defaultValue>-</defaultValue>
+        <attributeValues>
+            <attributeValue tag="-" colour="(90, 82, 78)"/>
+            <attributeValue tag="B" colour="(161, 146, 114)"/>
+            <attributeValue tag="S" colour="(156, 168, 176)"/>
+            <attributeValue tag="X" colour="(0, 255, 255)"/>
+        </attributeValues>
+    </renderer>
+    <renderer name="tiled" module="game.levelbuilder" class="BomberTiledRenderer"
+            confirmationMessage="Tiled file written">
+        <cellWidth>10</cellWidth>
+        <cellHeight>10</cellHeight>
+        <tilesetFilename>bomber-tiles.png</tilesetFilename>
+        <tagName>None</tagName>
+        <defaultValue>-</defaultValue>
+        <layerName>Board</layerName>
+        <attributeValues>
+            <attributeValue index="1" tag="-" colour="(90, 82, 78)"/>
+            <attributeValue index="2" tag="B" colour="(161, 146, 114)"/>
+            <attributeValue index="4" tag="S" colour="(156, 168, 176)"/>
+            <attributeValue index="3" tag="X" colour="(0, 255, 255)"/>
+            <attributeValue index="6" tag="P1-start" colour="(0, 255, 0)"/>
+            <attributeValue index="7" tag="P2-start" colour="(255, 0, 0)"/>
+        </attributeValues>
+    </renderer>
+  </renderers>
+</generator>

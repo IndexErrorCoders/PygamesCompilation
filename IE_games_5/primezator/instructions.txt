@@ -1,0 +1,25 @@
+The Primezator 42953 is a puzzle game based on simple math and prime numbers.
+The goal is to push around number blocks and get a prime number to put into a door.
+Once all the doors are filled and all numbers are used, you complete the level.
+Also, if you don't know what's prime and what isn't, the game already labels prime numbers.
+
+Move around the player with the arrow keys.
+Pause the game with the spacebar to access the menu.
+
+Adding numbers is as simple as pushing two blocks together.
+There are five operation boxes for the remainder of the functions: subtraction, multiplication, division, square, and square root.
+Push the blocks into the operation boxes in order to receive a new number.
+You cannot take numbers out of the operations, and you cannot receive decimals.
+You do not need to use all of the operations in order to win.
+
+A door only takes one prime number, and after that, you can move other blocks over the door.
+You cannot pull blocks, so don't get them stuck on an edge or in the corner.
+
+There are 50 levels currently, and they can be edited in the levels folder.
+The code system supports up to 100 levels, so you can add in more levels by making new level files.
+See levelx.txt for instructions on level building.
+If you get stuck, want more levels, or have any questions, send an email.
+Submit any levels you've made to me, and I might include them in a new version of this game.
+
+My email address:
+tiger10x@yahoo.com

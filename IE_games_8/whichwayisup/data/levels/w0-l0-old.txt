@@ -1,0 +1,77 @@
+set brown
+
+tiles
+WWSSSWWWWWWWWWWWWWWW
+W        WW   W W  W
+W      W  W     W  W
+W W         WW     S
+W    W    WWW   W  W
+W                  W
+W       W        W W
+W   WW       WWW   W
+WW                 W
+W        W        WW
+W  WWW          W  W
+WW             WW  W
+W    W    WWW      W
+S                  W
+S  W   WW         WW
+S     WW W        WW
+S     WW  W        W
+S     W    WWWW    W
+S  W         B     B
+WWWWW   W WWWWWWWWWW
+
+player 15.5 18.55
+key 12.5 18.5
+lever 18.5 8.5 1 TRIGGER_FLIP
+lever 8.5 1.5 1 TRIGGER_FLIP
+lever 3.5 11.5 1 TRIGGER_FLIP
+lever 9.5 19.5 1 TRIGGER_FLIP
+spider 17.5 15 RIGHT
+spider 15 6.5 DOWN
+spider 2.5 8.5 LEFT
+
+trigger level_begin 1
+player animation sleep
+dialogue Zzz...
+player animation default
+dialogue ...uh, g'morning.
+dialogue Where am I?
+dialogue ...
+dialogue I guess I really need to lay off the booze.
+dialogue I remember something about a key... and some sort of an experiment.
+player orientation LEFT
+dialogue And it seems like my key has slipped behind those bars.
+dialogue Slippery bastard. If only I could reach it...
+dialogue ...
+dialogue Damn this 2D world. Platforming really isn't my thing.
+dialogue I'm more like a shooter guy.
+player orientation RIGHT
+dialogue But if I really have to, I guess I could try the lever up there.
+dialogue You there with the controls, just lay your hand on the arrow keys.
+dialogue I jump with the up arrow or Z. Hold it longer, and I'll jump higher.
+dialogue You can also use it to slow down falls.
+dialogue Collect stuff and pull levers with the down arrow. Got it now?
+dialogue Oh, and stay clear of dangers.
+dialogue Like, if there are sharp spikes on the floor, don't make me jump on them.
+dialogue I can take a few hits, but I'm not the kind of guy that likes pain.
+dialogue So just be careful. Please.
+end trigger
+
+trigger flipped 1
+dialogue Whoa!
+dialogue That was sort of unexpected.
+dialogue But I guess I can use it to my advantage.
+dialogue This lever seems to have broken, but I wonder what the next one up there does?
+end trigger
+
+trigger key 1
+dialogue Finally!
+dialogue ...
+dialogue Hey, what is this?
+dialogue This key doesn't fit that door after all. Now what?
+dialogue ...
+dialogue I guess I'll just have to go to the next level.
+change_level
+end trigger

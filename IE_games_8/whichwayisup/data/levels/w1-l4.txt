@@ -1,0 +1,49 @@
+set green
+
+tiles
+.........W.W.W.W.W.W
+.                  .
+.        W W W W W .
+.   WWWWWWWWWWWWWW .
+.  W         W   W .
+. W  WWWWWWW WWW W .
+.W  W          W W .
+W  W  WWWWWWWW W W .
+W W   W      W   W .
+W W WWW WWWW WWW W W
+W W   W W  W   W W .
+W   W W W  W W W W W
+W W W W WW W W   W .
+W W W W    WWWWW W W
+W W W WWWWWWWWWW   .
+W W W   S      WWS W
+W W W S   W  W W   W
+W W   WWWWWWWW W  SW
+W   W   W    W    WW
+W     W   W    SSSWW
+
+player 10.5 13.55
+
+lever 9.5 10.5 -1 TRIGGER_FLIP
+lever 7.5 8.5 -1 TRIGGER_FLIP
+lever 12.5 12.5 -1 TRIGGER_FLIP
+lever 12.5 4.5 -1 TRIGGER_FLIP
+lever 5.5 10.5 -1 TRIGGER_FLIP
+lever 1.5 7.5 -1 TRIGGER_FLIP
+lever 11.5 16.5 -1 TRIGGER_FLIP
+lever 11.5 19.5 -1 TRIGGER_FLIP
+lever 19.5 8.5 -1 TRIGGER_FLIP
+lever 8.5 0.5 -1 TRIGGER_FLIP
+power_crystal 13.5 15.5
+spider 3 19.5 DOWN
+spider 1.5 10 LEFT
+
+trigger level_begin 1
+dialogue So, I'm in the middle of a spiral structure.
+dialogue Doesn't look too complicated, really.
+end trigger
+
+trigger power_crystal 1
+dialogue Woosh.
+change_level
+end trigger

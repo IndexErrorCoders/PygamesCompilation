@@ -1,0 +1,25 @@
+Metadata-Version: 1.1
+Name: unvisible
+Version: 0.4.0
+Summary: one room, one hit man, one target, one outcome?
+Home-page: http://perpetualpyramid.com/drupal/?q=unvisible_game
+Author: Paul Paterson
+Author-email: UNKNOWN
+License: short_licence
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: End Users/Desktop
+Classifier: Intended Audience :: Information Technology
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.5
+Classifier: Programming Language :: Python :: 2.6
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.0
+Classifier: Programming Language :: Python :: 3.1
+Classifier: Programming Language :: Python :: 3.2
+Classifier: Topic :: Software Development :: Libraries :: pygame
+Classifier: Topic :: Games/Entertainment :: Real Time Strategy
