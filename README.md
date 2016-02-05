@@ -26,6 +26,22 @@ https://openclassrooms.com/forum/sujet/les-erreurs-courantes-en-python-45319
 Pour aller plus loin, ici en anlais et sur le C++:
 http://gameprogrammingpatterns.com/contents.html
 
-![alt tag](https://github.com/IndexErrorCoders/PygamesCompilation/blob/master/pygameexemplesinteressants/ArcadeTonkTanks.png)
+Links of some games contented :
 
 [ArcadeTonkTanks](https://github.com/IndexErrorCoders/PygamesCompilation/tree/master/IE_games_1/ArcadeTonkTanks_006)
+
+![alt tag](https://github.com/IndexErrorCoders/PygamesCompilation/blob/master/pygameexemplesinteressants/ArcadeTonkTanks.png)
+
+[ardentryst](https://github.com/IndexErrorCoders/PygamesCompilation/tree/master/IE_games_2/ardentryst1.71)
+
+![alt tag](https://github.com/IndexErrorCoders/PygamesCompilation/blob/master/pygameexemplesinteressants/Aredntryst.jpg)
+
+[OilWorker](https://github.com/IndexErrorCoders/PygamesCompilation/tree/master/IE_games_4/OilWorker)
+
+![alt tag](https://github.com/IndexErrorCoders/PygamesCompilation/blob/master/pygameexemplesinteressants/OilWorker.png)
+
+[WizardsMagic](https://github.com/IndexErrorCoders/PygamesCompilation/tree/master/IE_games_8/WizardsMagic)
+
+![alt tag](https://github.com/IndexErrorCoders/PygamesCompilation/blob/master/pygameexemplesinteressants/WizardsMagic.png)
+
+![alt tag](https://github.com/IndexErrorCoders/PygamesCompilation/blob/master/pygameexemplesinteressants/shootemup.png)
