@@ -1,3 +1,5 @@
+promoted by @[buffalo974](https://github.com/buffalo974)
+
 A l' attention des apprentis Game-Developers
 --------------------------------------------
 
